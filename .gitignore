@@ -1,0 +1,5 @@
+# Ignorar diretórios de compilação
+node_modules/
+
+#Ignorar
+.lock
