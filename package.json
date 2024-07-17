@@ -1,0 +1,51 @@
+{
+  "name": "animalia-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "exports": {
+    "./regular": "./src/regular/style.css",
+    "./fill": "./src/fill/style.css",
+    "./*": "./src/*"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "npx http-server -o /test",
+    "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,vue}\"",
+    "transform": "tsx ./scripts/transform.ts",
+    "icomoon": "tsx ./scripts/icomoon.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animaliads/animalia-icon.git"
+  },
+  "keywords": [
+    "icons",
+    "icon-pack",
+    "web",
+    "html",
+    "css",
+    "svg",
+    "svg-icons",
+    "icon-font"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animaliads/animalia-icon/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/node": "18",
+    "chalk": "^4.1.0",
+    "prettier": "^3.1.1",
+    "svgson": "^5.2.1",
+    "tsx": "^4.7.0"
+  }
+}
