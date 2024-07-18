@@ -1,6 +1,6 @@
 # **Biblioteca de Ícones Animalia**
 
-<img src="/meta/tamandua.png" width="128" align="right" />
+<img src="./meta/tamandua.png" width="128" align="right" />
 
 [![NPM](https://img.shields.io/npm/v/animalia-icon.svg?style=flat-square)](https://www.npmjs.com/package/animalia-icon)
 
@@ -10,8 +10,8 @@
 
 Adicione a biblioteca de ícones Animalia ao seu projeto com o npm:
 
-```jsx
-npm i animalia-icon
+```bash
+npm i @animaliads/animalia-icon
 ```
 
 ## **Uso 🚀**
@@ -25,7 +25,7 @@ Nossos ícones funcionam como fontes da web, facilitando a inserção em seu sit
     <link
       rel="stylesheet"
       type="text/css"
-      href="https://unpkg.com/animalia-icon/@1.0.5/src/regular/style.css"
+      href="https://unpkg.com//@animaliads/animalia-icon@1.0.0/src/regular/style.css"
     />
   </head>
   <body>
