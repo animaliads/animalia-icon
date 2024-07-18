@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/animalia-icon.svg?style=flat-square)](https://www.npmjs.com/package/animalia-icon)
 
-[![GitHub stars](https://img.shields.io/github/stars/animalia-icon?style=flat-square&label=Star)](https://github.com/animalia-icon/web)
+[![GitHub stars](https://img.shields.io/github/stars/animaliads?style=flat-square&label=Star)](https://github.com/animalia-icon/web)
 
 [![GitHub forks](https://img.shields.io/github/forks/animalia-icon?style=flat-square&label=Fork)](https://github.com/animalia-icon/fork)
 
