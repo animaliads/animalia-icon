@@ -1,17 +1,17 @@
 @font-face {
-  font-family: "Animalia-Fill";
+  font-family: "Animalia";
   src:
-    url("./Animalia-Fill.woff") format("woff"),
-    url("./Animalia-Fill.ttf") format("truetype"),
-    url("./Animalia-Fill.svg#Animalia-Fill") format("svg");
+    url("./Animalia.ttf") format("truetype"),
+    url("./Animalia.woff") format("woff"),
+    url("./Animalia.svg#Animalia") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-.an-fill {
+.ph {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: "Animalia-Fill" !important;
+  font-family: "Animalia" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -34,4593 +34,4593 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.an-fill.an-acorn:before {
+.ph-acorn-fill:before {
   content: "\eb9a";
 }
-.an-fill.an-address-book:before {
+.ph-address-book-fill:before {
   content: "\e6f8";
 }
-.an-fill.an-address-book-tabs:before {
+.ph-address-book-tabs-fill:before {
   content: "\ee4e";
 }
-.an-fill.an-air-traffic-control:before {
+.ph-air-traffic-control-fill:before {
   content: "\ecd8";
 }
-.an-fill.an-airplane:before {
+.ph-airplane-fill:before {
   content: "\e002";
 }
-.an-fill.an-airplane-in-flight:before {
+.ph-airplane-in-flight-fill:before {
   content: "\e4fe";
 }
-.an-fill.an-airplane-landing:before {
+.ph-airplane-landing-fill:before {
   content: "\e502";
 }
-.an-fill.an-airplane-takeoff:before {
+.ph-airplane-takeoff-fill:before {
   content: "\e504";
 }
-.an-fill.an-airplane-taxiing:before {
+.ph-airplane-taxiing-fill:before {
   content: "\e500";
 }
-.an-fill.an-airplane-tilt:before {
+.ph-airplane-tilt-fill:before {
   content: "\e5d6";
 }
-.an-fill.an-airplay:before {
+.ph-airplay-fill:before {
   content: "\e004";
 }
-.an-fill.an-alarm:before {
+.ph-alarm-fill:before {
   content: "\e006";
 }
-.an-fill.an-alien:before {
+.ph-alien-fill:before {
   content: "\e8a6";
 }
-.an-fill.an-align-bottom:before {
+.ph-align-bottom-fill:before {
   content: "\e506";
 }
-.an-fill.an-align-bottom-simple:before {
+.ph-align-bottom-simple-fill:before {
   content: "\eb0c";
 }
-.an-fill.an-align-center-horizontal:before {
+.ph-align-center-horizontal-fill:before {
   content: "\e50a";
 }
-.an-fill.an-align-center-horizontal-simple:before {
+.ph-align-center-horizontal-simple-fill:before {
   content: "\eb0e";
 }
-.an-fill.an-align-center-vertical:before {
+.ph-align-center-vertical-fill:before {
   content: "\e50c";
 }
-.an-fill.an-align-center-vertical-simple:before {
+.ph-align-center-vertical-simple-fill:before {
   content: "\eb10";
 }
-.an-fill.an-align-left:before {
+.ph-align-left-fill:before {
   content: "\e50e";
 }
-.an-fill.an-align-left-simple:before {
+.ph-align-left-simple-fill:before {
   content: "\eaee";
 }
-.an-fill.an-align-right:before {
+.ph-align-right-fill:before {
   content: "\e510";
 }
-.an-fill.an-align-right-simple:before {
+.ph-align-right-simple-fill:before {
   content: "\eb12";
 }
-.an-fill.an-align-top:before {
+.ph-align-top-fill:before {
   content: "\e512";
 }
-.an-fill.an-align-top-simple:before {
+.ph-align-top-simple-fill:before {
   content: "\eb14";
 }
-.an-fill.an-amazon-logo:before {
+.ph-amazon-logo-fill:before {
   content: "\e96c";
 }
-.an-fill.an-ambulance:before {
+.ph-ambulance-fill:before {
   content: "\e572";
 }
-.an-fill.an-anchor:before {
+.ph-anchor-fill:before {
   content: "\e514";
 }
-.an-fill.an-anchor-simple:before {
+.ph-anchor-simple-fill:before {
   content: "\e5d8";
 }
-.an-fill.an-android-logo:before {
+.ph-android-logo-fill:before {
   content: "\e008";
 }
-.an-fill.an-angle:before {
+.ph-angle-fill:before {
   content: "\e7bc";
 }
-.an-fill.an-angular-logo:before {
+.ph-angular-logo-fill:before {
   content: "\eb80";
 }
-.an-fill.an-aperture:before {
+.ph-aperture-fill:before {
   content: "\e00a";
 }
-.an-fill.an-app-store-logo:before {
+.ph-app-store-logo-fill:before {
   content: "\e974";
 }
-.an-fill.an-app-window:before {
+.ph-app-window-fill:before {
   content: "\e5da";
 }
-.an-fill.an-apple-logo:before {
+.ph-apple-logo-fill:before {
   content: "\e516";
 }
-.an-fill.an-apple-podcasts-logo:before {
+.ph-apple-podcasts-logo-fill:before {
   content: "\eb96";
 }
-.an-fill.an-approximate-equals:before {
+.ph-approximate-equals-fill:before {
   content: "\edaa";
 }
-.an-fill.an-archive:before {
+.ph-archive-fill:before {
   content: "\e00c";
 }
-.an-fill.an-armchair:before {
+.ph-armchair-fill:before {
   content: "\e012";
 }
-.an-fill.an-arrow-arc-left:before {
+.ph-arrow-arc-left-fill:before {
   content: "\e014";
 }
-.an-fill.an-arrow-arc-right:before {
+.ph-arrow-arc-right-fill:before {
   content: "\e016";
 }
-.an-fill.an-arrow-bend-double-up-left:before {
+.ph-arrow-bend-double-up-left-fill:before {
   content: "\e03a";
 }
-.an-fill.an-arrow-bend-double-up-right:before {
+.ph-arrow-bend-double-up-right-fill:before {
   content: "\e03c";
 }
-.an-fill.an-arrow-bend-down-left:before {
+.ph-arrow-bend-down-left-fill:before {
   content: "\e018";
 }
-.an-fill.an-arrow-bend-down-right:before {
+.ph-arrow-bend-down-right-fill:before {
   content: "\e01a";
 }
-.an-fill.an-arrow-bend-left-down:before {
+.ph-arrow-bend-left-down-fill:before {
   content: "\e01c";
 }
-.an-fill.an-arrow-bend-left-up:before {
+.ph-arrow-bend-left-up-fill:before {
   content: "\e01e";
 }
-.an-fill.an-arrow-bend-right-down:before {
+.ph-arrow-bend-right-down-fill:before {
   content: "\e020";
 }
-.an-fill.an-arrow-bend-right-up:before {
+.ph-arrow-bend-right-up-fill:before {
   content: "\e022";
 }
-.an-fill.an-arrow-bend-up-left:before {
+.ph-arrow-bend-up-left-fill:before {
   content: "\e024";
 }
-.an-fill.an-arrow-bend-up-right:before {
+.ph-arrow-bend-up-right-fill:before {
   content: "\e026";
 }
-.an-fill.an-arrow-circle-down:before {
+.ph-arrow-circle-down-fill:before {
   content: "\e028";
 }
-.an-fill.an-arrow-circle-down-left:before {
+.ph-arrow-circle-down-left-fill:before {
   content: "\e02a";
 }
-.an-fill.an-arrow-circle-down-right:before {
+.ph-arrow-circle-down-right-fill:before {
   content: "\e02c";
 }
-.an-fill.an-arrow-circle-left:before {
+.ph-arrow-circle-left-fill:before {
   content: "\e05a";
 }
-.an-fill.an-arrow-circle-right:before {
+.ph-arrow-circle-right-fill:before {
   content: "\e02e";
 }
-.an-fill.an-arrow-circle-up:before {
+.ph-arrow-circle-up-fill:before {
   content: "\e030";
 }
-.an-fill.an-arrow-circle-up-left:before {
+.ph-arrow-circle-up-left-fill:before {
   content: "\e032";
 }
-.an-fill.an-arrow-circle-up-right:before {
+.ph-arrow-circle-up-right-fill:before {
   content: "\e034";
 }
-.an-fill.an-arrow-clockwise:before {
+.ph-arrow-clockwise-fill:before {
   content: "\e036";
 }
-.an-fill.an-arrow-counter-clockwise:before {
+.ph-arrow-counter-clockwise-fill:before {
   content: "\e038";
 }
-.an-fill.an-arrow-down:before {
+.ph-arrow-down-fill:before {
   content: "\e03e";
 }
-.an-fill.an-arrow-down-left:before {
+.ph-arrow-down-left-fill:before {
   content: "\e040";
 }
-.an-fill.an-arrow-down-right:before {
+.ph-arrow-down-right-fill:before {
   content: "\e042";
 }
-.an-fill.an-arrow-elbow-down-left:before {
+.ph-arrow-elbow-down-left-fill:before {
   content: "\e044";
 }
-.an-fill.an-arrow-elbow-down-right:before {
+.ph-arrow-elbow-down-right-fill:before {
   content: "\e046";
 }
-.an-fill.an-arrow-elbow-left:before {
+.ph-arrow-elbow-left-fill:before {
   content: "\e048";
 }
-.an-fill.an-arrow-elbow-left-down:before {
+.ph-arrow-elbow-left-down-fill:before {
   content: "\e04a";
 }
-.an-fill.an-arrow-elbow-left-up:before {
+.ph-arrow-elbow-left-up-fill:before {
   content: "\e04c";
 }
-.an-fill.an-arrow-elbow-right:before {
+.ph-arrow-elbow-right-fill:before {
   content: "\e04e";
 }
-.an-fill.an-arrow-elbow-right-down:before {
+.ph-arrow-elbow-right-down-fill:before {
   content: "\e050";
 }
-.an-fill.an-arrow-elbow-right-up:before {
+.ph-arrow-elbow-right-up-fill:before {
   content: "\e052";
 }
-.an-fill.an-arrow-elbow-up-left:before {
+.ph-arrow-elbow-up-left-fill:before {
   content: "\e054";
 }
-.an-fill.an-arrow-elbow-up-right:before {
+.ph-arrow-elbow-up-right-fill:before {
   content: "\e056";
 }
-.an-fill.an-arrow-fat-down:before {
+.ph-arrow-fat-down-fill:before {
   content: "\e518";
 }
-.an-fill.an-arrow-fat-left:before {
+.ph-arrow-fat-left-fill:before {
   content: "\e51a";
 }
-.an-fill.an-arrow-fat-line-down:before {
+.ph-arrow-fat-line-down-fill:before {
   content: "\e51c";
 }
-.an-fill.an-arrow-fat-line-left:before {
+.ph-arrow-fat-line-left-fill:before {
   content: "\e51e";
 }
-.an-fill.an-arrow-fat-line-right:before {
+.ph-arrow-fat-line-right-fill:before {
   content: "\e520";
 }
-.an-fill.an-arrow-fat-line-up:before {
+.ph-arrow-fat-line-up-fill:before {
   content: "\e522";
 }
-.an-fill.an-arrow-fat-lines-down:before {
+.ph-arrow-fat-lines-down-fill:before {
   content: "\e524";
 }
-.an-fill.an-arrow-fat-lines-left:before {
+.ph-arrow-fat-lines-left-fill:before {
   content: "\e526";
 }
-.an-fill.an-arrow-fat-lines-right:before {
+.ph-arrow-fat-lines-right-fill:before {
   content: "\e528";
 }
-.an-fill.an-arrow-fat-lines-up:before {
+.ph-arrow-fat-lines-up-fill:before {
   content: "\e52a";
 }
-.an-fill.an-arrow-fat-right:before {
+.ph-arrow-fat-right-fill:before {
   content: "\e52c";
 }
-.an-fill.an-arrow-fat-up:before {
+.ph-arrow-fat-up-fill:before {
   content: "\e52e";
 }
-.an-fill.an-arrow-left:before {
+.ph-arrow-left-fill:before {
   content: "\e058";
 }
-.an-fill.an-arrow-line-down:before {
+.ph-arrow-line-down-fill:before {
   content: "\e05c";
 }
-.an-fill.an-arrow-line-down-left:before {
+.ph-arrow-line-down-left-fill:before {
   content: "\e05e";
 }
-.an-fill.an-arrow-line-down-right:before {
+.ph-arrow-line-down-right-fill:before {
   content: "\e060";
 }
-.an-fill.an-arrow-line-left:before {
+.ph-arrow-line-left-fill:before {
   content: "\e062";
 }
-.an-fill.an-arrow-line-right:before {
+.ph-arrow-line-right-fill:before {
   content: "\e064";
 }
-.an-fill.an-arrow-line-up:before {
+.ph-arrow-line-up-fill:before {
   content: "\e066";
 }
-.an-fill.an-arrow-line-up-left:before {
+.ph-arrow-line-up-left-fill:before {
   content: "\e068";
 }
-.an-fill.an-arrow-line-up-right:before {
+.ph-arrow-line-up-right-fill:before {
   content: "\e06a";
 }
-.an-fill.an-arrow-right:before {
+.ph-arrow-right-fill:before {
   content: "\e06c";
 }
-.an-fill.an-arrow-square-down:before {
+.ph-arrow-square-down-fill:before {
   content: "\e06e";
 }
-.an-fill.an-arrow-square-down-left:before {
+.ph-arrow-square-down-left-fill:before {
   content: "\e070";
 }
-.an-fill.an-arrow-square-down-right:before {
+.ph-arrow-square-down-right-fill:before {
   content: "\e072";
 }
-.an-fill.an-arrow-square-in:before {
+.ph-arrow-square-in-fill:before {
   content: "\e5dc";
 }
-.an-fill.an-arrow-square-left:before {
+.ph-arrow-square-left-fill:before {
   content: "\e074";
 }
-.an-fill.an-arrow-square-out:before {
+.ph-arrow-square-out-fill:before {
   content: "\e5de";
 }
-.an-fill.an-arrow-square-right:before {
+.ph-arrow-square-right-fill:before {
   content: "\e076";
 }
-.an-fill.an-arrow-square-up:before {
+.ph-arrow-square-up-fill:before {
   content: "\e078";
 }
-.an-fill.an-arrow-square-up-left:before {
+.ph-arrow-square-up-left-fill:before {
   content: "\e07a";
 }
-.an-fill.an-arrow-square-up-right:before {
+.ph-arrow-square-up-right-fill:before {
   content: "\e07c";
 }
-.an-fill.an-arrow-u-down-left:before {
+.ph-arrow-u-down-left-fill:before {
   content: "\e07e";
 }
-.an-fill.an-arrow-u-down-right:before {
+.ph-arrow-u-down-right-fill:before {
   content: "\e080";
 }
-.an-fill.an-arrow-u-left-down:before {
+.ph-arrow-u-left-down-fill:before {
   content: "\e082";
 }
-.an-fill.an-arrow-u-left-up:before {
+.ph-arrow-u-left-up-fill:before {
   content: "\e084";
 }
-.an-fill.an-arrow-u-right-down:before {
+.ph-arrow-u-right-down-fill:before {
   content: "\e086";
 }
-.an-fill.an-arrow-u-right-up:before {
+.ph-arrow-u-right-up-fill:before {
   content: "\e088";
 }
-.an-fill.an-arrow-u-up-left:before {
+.ph-arrow-u-up-left-fill:before {
   content: "\e08a";
 }
-.an-fill.an-arrow-u-up-right:before {
+.ph-arrow-u-up-right-fill:before {
   content: "\e08c";
 }
-.an-fill.an-arrow-up:before {
+.ph-arrow-up-fill:before {
   content: "\e08e";
 }
-.an-fill.an-arrow-up-left:before {
+.ph-arrow-up-left-fill:before {
   content: "\e090";
 }
-.an-fill.an-arrow-up-right:before {
+.ph-arrow-up-right-fill:before {
   content: "\e092";
 }
-.an-fill.an-arrows-clockwise:before {
+.ph-arrows-clockwise-fill:before {
   content: "\e094";
 }
-.an-fill.an-arrows-counter-clockwise:before {
+.ph-arrows-counter-clockwise-fill:before {
   content: "\e096";
 }
-.an-fill.an-arrows-down-up:before {
+.ph-arrows-down-up-fill:before {
   content: "\e098";
 }
-.an-fill.an-arrows-horizontal:before {
+.ph-arrows-horizontal-fill:before {
   content: "\eb06";
 }
-.an-fill.an-arrows-in:before {
+.ph-arrows-in-fill:before {
   content: "\e09a";
 }
-.an-fill.an-arrows-in-cardinal:before {
+.ph-arrows-in-cardinal-fill:before {
   content: "\e09c";
 }
-.an-fill.an-arrows-in-line-horizontal:before {
+.ph-arrows-in-line-horizontal-fill:before {
   content: "\e530";
 }
-.an-fill.an-arrows-in-line-vertical:before {
+.ph-arrows-in-line-vertical-fill:before {
   content: "\e532";
 }
-.an-fill.an-arrows-in-simple:before {
+.ph-arrows-in-simple-fill:before {
   content: "\e09e";
 }
-.an-fill.an-arrows-left-right:before {
+.ph-arrows-left-right-fill:before {
   content: "\e0a0";
 }
-.an-fill.an-arrows-merge:before {
+.ph-arrows-merge-fill:before {
   content: "\ed3e";
 }
-.an-fill.an-arrows-out:before {
+.ph-arrows-out-fill:before {
   content: "\e0a2";
 }
-.an-fill.an-arrows-out-cardinal:before {
+.ph-arrows-out-cardinal-fill:before {
   content: "\e0a4";
 }
-.an-fill.an-arrows-out-line-horizontal:before {
+.ph-arrows-out-line-horizontal-fill:before {
   content: "\e534";
 }
-.an-fill.an-arrows-out-line-vertical:before {
+.ph-arrows-out-line-vertical-fill:before {
   content: "\e536";
 }
-.an-fill.an-arrows-out-simple:before {
+.ph-arrows-out-simple-fill:before {
   content: "\e0a6";
 }
-.an-fill.an-arrows-split:before {
+.ph-arrows-split-fill:before {
   content: "\ed3c";
 }
-.an-fill.an-arrows-vertical:before {
+.ph-arrows-vertical-fill:before {
   content: "\eb04";
 }
-.an-fill.an-article:before {
+.ph-article-fill:before {
   content: "\e0a8";
 }
-.an-fill.an-article-medium:before {
+.ph-article-medium-fill:before {
   content: "\e5e0";
 }
-.an-fill.an-article-ny-times:before {
+.ph-article-ny-times-fill:before {
   content: "\e5e2";
 }
-.an-fill.an-asclepius:before {
+.ph-asclepius-fill:before {
   content: "\ee34";
 }
-.an-fill.an-caduceus:before {
+.ph-caduceus-fill:before {
   content: "\ee34";
 }
-.an-fill.an-asterisk:before {
+.ph-asterisk-fill:before {
   content: "\e0aa";
 }
-.an-fill.an-asterisk-simple:before {
+.ph-asterisk-simple-fill:before {
   content: "\e832";
 }
-.an-fill.an-at:before {
+.ph-at-fill:before {
   content: "\e0ac";
 }
-.an-fill.an-atom:before {
+.ph-atom-fill:before {
   content: "\e5e4";
 }
-.an-fill.an-avocado:before {
+.ph-avocado-fill:before {
   content: "\ee04";
 }
-.an-fill.an-axe:before {
+.ph-axe-fill:before {
   content: "\e9fc";
 }
-.an-fill.an-baby:before {
+.ph-baby-fill:before {
   content: "\e774";
 }
-.an-fill.an-baby-carriage:before {
+.ph-baby-carriage-fill:before {
   content: "\e818";
 }
-.an-fill.an-backpack:before {
+.ph-backpack-fill:before {
   content: "\e922";
 }
-.an-fill.an-backspace:before {
+.ph-backspace-fill:before {
   content: "\e0ae";
 }
-.an-fill.an-bag:before {
+.ph-bag-fill:before {
   content: "\e0b0";
 }
-.an-fill.an-bag-simple:before {
+.ph-bag-simple-fill:before {
   content: "\e5e6";
 }
-.an-fill.an-balloon:before {
+.ph-balloon-fill:before {
   content: "\e76c";
 }
-.an-fill.an-bandaids:before {
+.ph-bandaids-fill:before {
   content: "\e0b2";
 }
-.an-fill.an-bank:before {
+.ph-bank-fill:before {
   content: "\e0b4";
 }
-.an-fill.an-barbell:before {
+.ph-barbell-fill:before {
   content: "\e0b6";
 }
-.an-fill.an-barcode:before {
+.ph-barcode-fill:before {
   content: "\e0b8";
 }
-.an-fill.an-barn:before {
+.ph-barn-fill:before {
   content: "\ec72";
 }
-.an-fill.an-barricade:before {
+.ph-barricade-fill:before {
   content: "\e948";
 }
-.an-fill.an-baseball:before {
+.ph-baseball-fill:before {
   content: "\e71a";
 }
-.an-fill.an-baseball-cap:before {
+.ph-baseball-cap-fill:before {
   content: "\ea28";
 }
-.an-fill.an-baseball-helmet:before {
+.ph-baseball-helmet-fill:before {
   content: "\ee4a";
 }
-.an-fill.an-basket:before {
+.ph-basket-fill:before {
   content: "\e964";
 }
-.an-fill.an-basketball:before {
+.ph-basketball-fill:before {
   content: "\e724";
 }
-.an-fill.an-bathtub:before {
+.ph-bathtub-fill:before {
   content: "\e81e";
 }
-.an-fill.an-battery-charging:before {
+.ph-battery-charging-fill:before {
   content: "\e0ba";
 }
-.an-fill.an-battery-charging-vertical:before {
+.ph-battery-charging-vertical-fill:before {
   content: "\e0bc";
 }
-.an-fill.an-battery-empty:before {
+.ph-battery-empty-fill:before {
   content: "\e0be";
 }
-.an-fill.an-battery-full:before {
+.ph-battery-full-fill:before {
   content: "\e0c0";
 }
-.an-fill.an-battery-high:before {
+.ph-battery-high-fill:before {
   content: "\e0c2";
 }
-.an-fill.an-battery-low:before {
+.ph-battery-low-fill:before {
   content: "\e0c4";
 }
-.an-fill.an-battery-medium:before {
+.ph-battery-medium-fill:before {
   content: "\e0c6";
 }
-.an-fill.an-battery-plus:before {
+.ph-battery-plus-fill:before {
   content: "\e808";
 }
-.an-fill.an-battery-plus-vertical:before {
+.ph-battery-plus-vertical-fill:before {
   content: "\ec50";
 }
-.an-fill.an-battery-vertical-empty:before {
+.ph-battery-vertical-empty-fill:before {
   content: "\e7c6";
 }
-.an-fill.an-battery-vertical-full:before {
+.ph-battery-vertical-full-fill:before {
   content: "\e7c4";
 }
-.an-fill.an-battery-vertical-high:before {
+.ph-battery-vertical-high-fill:before {
   content: "\e7c2";
 }
-.an-fill.an-battery-vertical-low:before {
+.ph-battery-vertical-low-fill:before {
   content: "\e7be";
 }
-.an-fill.an-battery-vertical-medium:before {
+.ph-battery-vertical-medium-fill:before {
   content: "\e7c0";
 }
-.an-fill.an-battery-warning:before {
+.ph-battery-warning-fill:before {
   content: "\e0c8";
 }
-.an-fill.an-battery-warning-vertical:before {
+.ph-battery-warning-vertical-fill:before {
   content: "\e0ca";
 }
-.an-fill.an-beach-ball:before {
+.ph-beach-ball-fill:before {
   content: "\ed24";
 }
-.an-fill.an-beanie:before {
+.ph-beanie-fill:before {
   content: "\ea2a";
 }
-.an-fill.an-bed:before {
+.ph-bed-fill:before {
   content: "\e0cc";
 }
-.an-fill.an-beer-bottle:before {
+.ph-beer-bottle-fill:before {
   content: "\e7b0";
 }
-.an-fill.an-beer-stein:before {
+.ph-beer-stein-fill:before {
   content: "\eb62";
 }
-.an-fill.an-behance-logo:before {
+.ph-behance-logo-fill:before {
   content: "\e7f4";
 }
-.an-fill.an-bell:before {
+.ph-bell-fill:before {
   content: "\e0ce";
 }
-.an-fill.an-bell-ringing:before {
+.ph-bell-ringing-fill:before {
   content: "\e5e8";
 }
-.an-fill.an-bell-simple:before {
+.ph-bell-simple-fill:before {
   content: "\e0d0";
 }
-.an-fill.an-bell-simple-ringing:before {
+.ph-bell-simple-ringing-fill:before {
   content: "\e5ea";
 }
-.an-fill.an-bell-simple-slash:before {
+.ph-bell-simple-slash-fill:before {
   content: "\e0d2";
 }
-.an-fill.an-bell-simple-z:before {
+.ph-bell-simple-z-fill:before {
   content: "\e5ec";
 }
-.an-fill.an-bell-slash:before {
+.ph-bell-slash-fill:before {
   content: "\e0d4";
 }
-.an-fill.an-bell-z:before {
+.ph-bell-z-fill:before {
   content: "\e5ee";
 }
-.an-fill.an-belt:before {
+.ph-belt-fill:before {
   content: "\ea2c";
 }
-.an-fill.an-bezier-curve:before {
+.ph-bezier-curve-fill:before {
   content: "\eb00";
 }
-.an-fill.an-bicycle:before {
+.ph-bicycle-fill:before {
   content: "\e0d6";
 }
-.an-fill.an-binary:before {
+.ph-binary-fill:before {
   content: "\ee60";
 }
-.an-fill.an-binoculars:before {
+.ph-binoculars-fill:before {
   content: "\ea64";
 }
-.an-fill.an-biohazard:before {
+.ph-biohazard-fill:before {
   content: "\e9e0";
 }
-.an-fill.an-bird:before {
+.ph-bird-fill:before {
   content: "\e72c";
 }
-.an-fill.an-blueprint:before {
+.ph-blueprint-fill:before {
   content: "\eda0";
 }
-.an-fill.an-bluetooth:before {
+.ph-bluetooth-fill:before {
   content: "\e0da";
 }
-.an-fill.an-bluetooth-connected:before {
+.ph-bluetooth-connected-fill:before {
   content: "\e0dc";
 }
-.an-fill.an-bluetooth-slash:before {
+.ph-bluetooth-slash-fill:before {
   content: "\e0de";
 }
-.an-fill.an-bluetooth-x:before {
+.ph-bluetooth-x-fill:before {
   content: "\e0e0";
 }
-.an-fill.an-boat:before {
+.ph-boat-fill:before {
   content: "\e786";
 }
-.an-fill.an-bomb:before {
+.ph-bomb-fill:before {
   content: "\ee0a";
 }
-.an-fill.an-bone:before {
+.ph-bone-fill:before {
   content: "\e7f2";
 }
-.an-fill.an-book:before {
+.ph-book-fill:before {
   content: "\e0e2";
 }
-.an-fill.an-book-bookmark:before {
+.ph-book-bookmark-fill:before {
   content: "\e0e4";
 }
-.an-fill.an-book-open:before {
+.ph-book-open-fill:before {
   content: "\e0e6";
 }
-.an-fill.an-book-open-text:before {
+.ph-book-open-text-fill:before {
   content: "\e8f2";
 }
-.an-fill.an-book-open-user:before {
+.ph-book-open-user-fill:before {
   content: "\ede0";
 }
-.an-fill.an-bookmark:before {
+.ph-bookmark-fill:before {
   content: "\e0e8";
 }
-.an-fill.an-bookmark-simple:before {
+.ph-bookmark-simple-fill:before {
   content: "\e0ea";
 }
-.an-fill.an-bookmarks:before {
+.ph-bookmarks-fill:before {
   content: "\e0ec";
 }
-.an-fill.an-bookmarks-simple:before {
+.ph-bookmarks-simple-fill:before {
   content: "\e5f0";
 }
-.an-fill.an-books:before {
+.ph-books-fill:before {
   content: "\e758";
 }
-.an-fill.an-boot:before {
+.ph-boot-fill:before {
   content: "\ecca";
 }
-.an-fill.an-boules:before {
+.ph-boules-fill:before {
   content: "\e722";
 }
-.an-fill.an-bounding-box:before {
+.ph-bounding-box-fill:before {
   content: "\e6ce";
 }
-.an-fill.an-bowl-food:before {
+.ph-bowl-food-fill:before {
   content: "\eaa4";
 }
-.an-fill.an-bowl-steam:before {
+.ph-bowl-steam-fill:before {
   content: "\e8e4";
 }
-.an-fill.an-bowling-ball:before {
+.ph-bowling-ball-fill:before {
   content: "\ea34";
 }
-.an-fill.an-box-arrow-down:before {
+.ph-box-arrow-down-fill:before {
   content: "\e00e";
 }
-.an-fill.an-archive-box:before {
+.ph-archive-box-fill:before {
   content: "\e00e";
 }
-.an-fill.an-box-arrow-up:before {
+.ph-box-arrow-up-fill:before {
   content: "\ee54";
 }
-.an-fill.an-boxing-glove:before {
+.ph-boxing-glove-fill:before {
   content: "\ea36";
 }
-.an-fill.an-brackets-angle:before {
+.ph-brackets-angle-fill:before {
   content: "\e862";
 }
-.an-fill.an-brackets-curly:before {
+.ph-brackets-curly-fill:before {
   content: "\e860";
 }
-.an-fill.an-brackets-round:before {
+.ph-brackets-round-fill:before {
   content: "\e864";
 }
-.an-fill.an-brackets-square:before {
+.ph-brackets-square-fill:before {
   content: "\e85e";
 }
-.an-fill.an-brain:before {
+.ph-brain-fill:before {
   content: "\e74e";
 }
-.an-fill.an-brandy:before {
+.ph-brandy-fill:before {
   content: "\e6b4";
 }
-.an-fill.an-bread:before {
+.ph-bread-fill:before {
   content: "\e81c";
 }
-.an-fill.an-bridge:before {
+.ph-bridge-fill:before {
   content: "\ea68";
 }
-.an-fill.an-briefcase:before {
+.ph-briefcase-fill:before {
   content: "\e0ee";
 }
-.an-fill.an-briefcase-metal:before {
+.ph-briefcase-metal-fill:before {
   content: "\e5f2";
 }
-.an-fill.an-broadcast:before {
+.ph-broadcast-fill:before {
   content: "\e0f2";
 }
-.an-fill.an-broom:before {
+.ph-broom-fill:before {
   content: "\ec54";
 }
-.an-fill.an-browser:before {
+.ph-browser-fill:before {
   content: "\e0f4";
 }
-.an-fill.an-browsers:before {
+.ph-browsers-fill:before {
   content: "\e0f6";
 }
-.an-fill.an-bug:before {
+.ph-bug-fill:before {
   content: "\e5f4";
 }
-.an-fill.an-bug-beetle:before {
+.ph-bug-beetle-fill:before {
   content: "\e5f6";
 }
-.an-fill.an-bug-droid:before {
+.ph-bug-droid-fill:before {
   content: "\e5f8";
 }
-.an-fill.an-building:before {
+.ph-building-fill:before {
   content: "\e100";
 }
-.an-fill.an-building-apartment:before {
+.ph-building-apartment-fill:before {
   content: "\e0fe";
 }
-.an-fill.an-building-office:before {
+.ph-building-office-fill:before {
   content: "\e0ff";
 }
-.an-fill.an-buildings:before {
+.ph-buildings-fill:before {
   content: "\e102";
 }
-.an-fill.an-bulldozer:before {
+.ph-bulldozer-fill:before {
   content: "\ec6c";
 }
-.an-fill.an-bus:before {
+.ph-bus-fill:before {
   content: "\e106";
 }
-.an-fill.an-butterfly:before {
+.ph-butterfly-fill:before {
   content: "\ea6e";
 }
-.an-fill.an-cable-car:before {
+.ph-cable-car-fill:before {
   content: "\e49c";
 }
-.an-fill.an-cactus:before {
+.ph-cactus-fill:before {
   content: "\e918";
 }
-.an-fill.an-cake:before {
+.ph-cake-fill:before {
   content: "\e780";
 }
-.an-fill.an-calculator:before {
+.ph-calculator-fill:before {
   content: "\e538";
 }
-.an-fill.an-calendar:before {
+.ph-calendar-fill:before {
   content: "\e108";
 }
-.an-fill.an-calendar-blank:before {
+.ph-calendar-blank-fill:before {
   content: "\e10a";
 }
-.an-fill.an-calendar-check:before {
+.ph-calendar-check-fill:before {
   content: "\e712";
 }
-.an-fill.an-calendar-dot:before {
+.ph-calendar-dot-fill:before {
   content: "\e7b2";
 }
-.an-fill.an-calendar-dots:before {
+.ph-calendar-dots-fill:before {
   content: "\e7b4";
 }
-.an-fill.an-calendar-heart:before {
+.ph-calendar-heart-fill:before {
   content: "\e8b0";
 }
-.an-fill.an-calendar-minus:before {
+.ph-calendar-minus-fill:before {
   content: "\ea14";
 }
-.an-fill.an-calendar-plus:before {
+.ph-calendar-plus-fill:before {
   content: "\e714";
 }
-.an-fill.an-calendar-slash:before {
+.ph-calendar-slash-fill:before {
   content: "\ea12";
 }
-.an-fill.an-calendar-star:before {
+.ph-calendar-star-fill:before {
   content: "\e8b2";
 }
-.an-fill.an-calendar-x:before {
+.ph-calendar-x-fill:before {
   content: "\e10c";
 }
-.an-fill.an-call-bell:before {
+.ph-call-bell-fill:before {
   content: "\e7de";
 }
-.an-fill.an-camera:before {
+.ph-camera-fill:before {
   content: "\e10e";
 }
-.an-fill.an-camera-plus:before {
+.ph-camera-plus-fill:before {
   content: "\ec58";
 }
-.an-fill.an-camera-rotate:before {
+.ph-camera-rotate-fill:before {
   content: "\e7a4";
 }
-.an-fill.an-camera-slash:before {
+.ph-camera-slash-fill:before {
   content: "\e110";
 }
-.an-fill.an-campfire:before {
+.ph-campfire-fill:before {
   content: "\e9d8";
 }
-.an-fill.an-car:before {
+.ph-car-fill:before {
   content: "\e112";
 }
-.an-fill.an-car-battery:before {
+.ph-car-battery-fill:before {
   content: "\ee30";
 }
-.an-fill.an-car-profile:before {
+.ph-car-profile-fill:before {
   content: "\e8cc";
 }
-.an-fill.an-car-simple:before {
+.ph-car-simple-fill:before {
   content: "\e114";
 }
-.an-fill.an-cardholder:before {
+.ph-cardholder-fill:before {
   content: "\e5fa";
 }
-.an-fill.an-cards:before {
+.ph-cards-fill:before {
   content: "\e0f8";
 }
-.an-fill.an-cards-three:before {
+.ph-cards-three-fill:before {
   content: "\ee50";
 }
-.an-fill.an-caret-circle-double-down:before {
+.ph-caret-circle-double-down-fill:before {
   content: "\e116";
 }
-.an-fill.an-caret-circle-double-left:before {
+.ph-caret-circle-double-left-fill:before {
   content: "\e118";
 }
-.an-fill.an-caret-circle-double-right:before {
+.ph-caret-circle-double-right-fill:before {
   content: "\e11a";
 }
-.an-fill.an-caret-circle-double-up:before {
+.ph-caret-circle-double-up-fill:before {
   content: "\e11c";
 }
-.an-fill.an-caret-circle-down:before {
+.ph-caret-circle-down-fill:before {
   content: "\e11e";
 }
-.an-fill.an-caret-circle-left:before {
+.ph-caret-circle-left-fill:before {
   content: "\e120";
 }
-.an-fill.an-caret-circle-right:before {
+.ph-caret-circle-right-fill:before {
   content: "\e122";
 }
-.an-fill.an-caret-circle-up:before {
+.ph-caret-circle-up-fill:before {
   content: "\e124";
 }
-.an-fill.an-caret-circle-up-down:before {
+.ph-caret-circle-up-down-fill:before {
   content: "\e13e";
 }
-.an-fill.an-caret-double-down:before {
+.ph-caret-double-down-fill:before {
   content: "\e126";
 }
-.an-fill.an-caret-double-left:before {
+.ph-caret-double-left-fill:before {
   content: "\e128";
 }
-.an-fill.an-caret-double-right:before {
+.ph-caret-double-right-fill:before {
   content: "\e12a";
 }
-.an-fill.an-caret-double-up:before {
+.ph-caret-double-up-fill:before {
   content: "\e12c";
 }
-.an-fill.an-caret-down:before {
+.ph-caret-down-fill:before {
   content: "\e136";
 }
-.an-fill.an-caret-left:before {
+.ph-caret-left-fill:before {
   content: "\e138";
 }
-.an-fill.an-caret-line-down:before {
+.ph-caret-line-down-fill:before {
   content: "\e134";
 }
-.an-fill.an-caret-line-left:before {
+.ph-caret-line-left-fill:before {
   content: "\e132";
 }
-.an-fill.an-caret-line-right:before {
+.ph-caret-line-right-fill:before {
   content: "\e130";
 }
-.an-fill.an-caret-line-up:before {
+.ph-caret-line-up-fill:before {
   content: "\e12e";
 }
-.an-fill.an-caret-right:before {
+.ph-caret-right-fill:before {
   content: "\e13a";
 }
-.an-fill.an-caret-up:before {
+.ph-caret-up-fill:before {
   content: "\e13c";
 }
-.an-fill.an-caret-up-down:before {
+.ph-caret-up-down-fill:before {
   content: "\e140";
 }
-.an-fill.an-carrot:before {
+.ph-carrot-fill:before {
   content: "\ed38";
 }
-.an-fill.an-cash-register:before {
+.ph-cash-register-fill:before {
   content: "\ed80";
 }
-.an-fill.an-cassette-tape:before {
+.ph-cassette-tape-fill:before {
   content: "\ed2e";
 }
-.an-fill.an-castle-turret:before {
+.ph-castle-turret-fill:before {
   content: "\e9d0";
 }
-.an-fill.an-cat:before {
+.ph-cat-fill:before {
   content: "\e748";
 }
-.an-fill.an-cell-signal-full:before {
+.ph-cell-signal-full-fill:before {
   content: "\e142";
 }
-.an-fill.an-cell-signal-high:before {
+.ph-cell-signal-high-fill:before {
   content: "\e144";
 }
-.an-fill.an-cell-signal-low:before {
+.ph-cell-signal-low-fill:before {
   content: "\e146";
 }
-.an-fill.an-cell-signal-medium:before {
+.ph-cell-signal-medium-fill:before {
   content: "\e148";
 }
-.an-fill.an-cell-signal-none:before {
+.ph-cell-signal-none-fill:before {
   content: "\e14a";
 }
-.an-fill.an-cell-signal-slash:before {
+.ph-cell-signal-slash-fill:before {
   content: "\e14c";
 }
-.an-fill.an-cell-signal-x:before {
+.ph-cell-signal-x-fill:before {
   content: "\e14e";
 }
-.an-fill.an-cell-tower:before {
+.ph-cell-tower-fill:before {
   content: "\ebaa";
 }
-.an-fill.an-certificate:before {
+.ph-certificate-fill:before {
   content: "\e766";
 }
-.an-fill.an-chair:before {
+.ph-chair-fill:before {
   content: "\e950";
 }
-.an-fill.an-chalkboard:before {
+.ph-chalkboard-fill:before {
   content: "\e5fc";
 }
-.an-fill.an-chalkboard-simple:before {
+.ph-chalkboard-simple-fill:before {
   content: "\e5fe";
 }
-.an-fill.an-chalkboard-teacher:before {
+.ph-chalkboard-teacher-fill:before {
   content: "\e600";
 }
-.an-fill.an-champagne:before {
+.ph-champagne-fill:before {
   content: "\eaca";
 }
-.an-fill.an-charging-station:before {
+.ph-charging-station-fill:before {
   content: "\e8d0";
 }
-.an-fill.an-chart-bar:before {
+.ph-chart-bar-fill:before {
   content: "\e150";
 }
-.an-fill.an-chart-bar-horizontal:before {
+.ph-chart-bar-horizontal-fill:before {
   content: "\e152";
 }
-.an-fill.an-chart-donut:before {
+.ph-chart-donut-fill:before {
   content: "\eaa6";
 }
-.an-fill.an-chart-line:before {
+.ph-chart-line-fill:before {
   content: "\e154";
 }
-.an-fill.an-chart-line-down:before {
+.ph-chart-line-down-fill:before {
   content: "\e8b6";
 }
-.an-fill.an-chart-line-up:before {
+.ph-chart-line-up-fill:before {
   content: "\e156";
 }
-.an-fill.an-chart-pie:before {
+.ph-chart-pie-fill:before {
   content: "\e158";
 }
-.an-fill.an-chart-pie-slice:before {
+.ph-chart-pie-slice-fill:before {
   content: "\e15a";
 }
-.an-fill.an-chart-polar:before {
+.ph-chart-polar-fill:before {
   content: "\eaa8";
 }
-.an-fill.an-chart-scatter:before {
+.ph-chart-scatter-fill:before {
   content: "\eaac";
 }
-.an-fill.an-chat:before {
+.ph-chat-fill:before {
   content: "\e15c";
 }
-.an-fill.an-chat-centered:before {
+.ph-chat-centered-fill:before {
   content: "\e160";
 }
-.an-fill.an-chat-centered-dots:before {
+.ph-chat-centered-dots-fill:before {
   content: "\e164";
 }
-.an-fill.an-chat-centered-slash:before {
+.ph-chat-centered-slash-fill:before {
   content: "\e162";
 }
-.an-fill.an-chat-centered-text:before {
+.ph-chat-centered-text-fill:before {
   content: "\e166";
 }
-.an-fill.an-chat-circle:before {
+.ph-chat-circle-fill:before {
   content: "\e168";
 }
-.an-fill.an-chat-circle-dots:before {
+.ph-chat-circle-dots-fill:before {
   content: "\e16c";
 }
-.an-fill.an-chat-circle-slash:before {
+.ph-chat-circle-slash-fill:before {
   content: "\e16a";
 }
-.an-fill.an-chat-circle-text:before {
+.ph-chat-circle-text-fill:before {
   content: "\e16e";
 }
-.an-fill.an-chat-dots:before {
+.ph-chat-dots-fill:before {
   content: "\e170";
 }
-.an-fill.an-chat-slash:before {
+.ph-chat-slash-fill:before {
   content: "\e15e";
 }
-.an-fill.an-chat-teardrop:before {
+.ph-chat-teardrop-fill:before {
   content: "\e172";
 }
-.an-fill.an-chat-teardrop-dots:before {
+.ph-chat-teardrop-dots-fill:before {
   content: "\e176";
 }
-.an-fill.an-chat-teardrop-slash:before {
+.ph-chat-teardrop-slash-fill:before {
   content: "\e174";
 }
-.an-fill.an-chat-teardrop-text:before {
+.ph-chat-teardrop-text-fill:before {
   content: "\e178";
 }
-.an-fill.an-chat-text:before {
+.ph-chat-text-fill:before {
   content: "\e17a";
 }
-.an-fill.an-chats:before {
+.ph-chats-fill:before {
   content: "\e17c";
 }
-.an-fill.an-chats-circle:before {
+.ph-chats-circle-fill:before {
   content: "\e17e";
 }
-.an-fill.an-chats-teardrop:before {
+.ph-chats-teardrop-fill:before {
   content: "\e180";
 }
-.an-fill.an-check:before {
+.ph-check-fill:before {
   content: "\e182";
 }
-.an-fill.an-check-circle:before {
+.ph-check-circle-fill:before {
   content: "\e184";
 }
-.an-fill.an-check-fat:before {
+.ph-check-fat-fill:before {
   content: "\eba6";
 }
-.an-fill.an-check-square:before {
+.ph-check-square-fill:before {
   content: "\e186";
 }
-.an-fill.an-check-square-offset:before {
+.ph-check-square-offset-fill:before {
   content: "\e188";
 }
-.an-fill.an-checkerboard:before {
+.ph-checkerboard-fill:before {
   content: "\e8c4";
 }
-.an-fill.an-checks:before {
+.ph-checks-fill:before {
   content: "\e53a";
 }
-.an-fill.an-cheers:before {
+.ph-cheers-fill:before {
   content: "\ea4a";
 }
-.an-fill.an-cheese:before {
+.ph-cheese-fill:before {
   content: "\e9fe";
 }
-.an-fill.an-chef-hat:before {
+.ph-chef-hat-fill:before {
   content: "\ed8e";
 }
-.an-fill.an-cherries:before {
+.ph-cherries-fill:before {
   content: "\e830";
 }
-.an-fill.an-church:before {
+.ph-church-fill:before {
   content: "\ecea";
 }
-.an-fill.an-cigarette:before {
+.ph-cigarette-fill:before {
   content: "\ed90";
 }
-.an-fill.an-cigarette-slash:before {
+.ph-cigarette-slash-fill:before {
   content: "\ed92";
 }
-.an-fill.an-circle:before {
+.ph-circle-fill:before {
   content: "\e18a";
 }
-.an-fill.an-circle-dashed:before {
+.ph-circle-dashed-fill:before {
   content: "\e602";
 }
-.an-fill.an-circle-half:before {
+.ph-circle-half-fill:before {
   content: "\e18c";
 }
-.an-fill.an-circle-half-tilt:before {
+.ph-circle-half-tilt-fill:before {
   content: "\e18e";
 }
-.an-fill.an-circle-notch:before {
+.ph-circle-notch-fill:before {
   content: "\eb44";
 }
-.an-fill.an-circles-four:before {
+.ph-circles-four-fill:before {
   content: "\e190";
 }
-.an-fill.an-circles-three:before {
+.ph-circles-three-fill:before {
   content: "\e192";
 }
-.an-fill.an-circles-three-plus:before {
+.ph-circles-three-plus-fill:before {
   content: "\e194";
 }
-.an-fill.an-circuitry:before {
+.ph-circuitry-fill:before {
   content: "\e9c2";
 }
-.an-fill.an-city:before {
+.ph-city-fill:before {
   content: "\ea6a";
 }
-.an-fill.an-clipboard:before {
+.ph-clipboard-fill:before {
   content: "\e196";
 }
-.an-fill.an-clipboard-text:before {
+.ph-clipboard-text-fill:before {
   content: "\e198";
 }
-.an-fill.an-clock:before {
+.ph-clock-fill:before {
   content: "\e19a";
 }
-.an-fill.an-clock-afternoon:before {
+.ph-clock-afternoon-fill:before {
   content: "\e19c";
 }
-.an-fill.an-clock-clockwise:before {
+.ph-clock-clockwise-fill:before {
   content: "\e19e";
 }
-.an-fill.an-clock-countdown:before {
+.ph-clock-countdown-fill:before {
   content: "\ed2c";
 }
-.an-fill.an-clock-counter-clockwise:before {
+.ph-clock-counter-clockwise-fill:before {
   content: "\e1a0";
 }
-.an-fill.an-clock-user:before {
+.ph-clock-user-fill:before {
   content: "\edec";
 }
-.an-fill.an-closed-captioning:before {
+.ph-closed-captioning-fill:before {
   content: "\e1a4";
 }
-.an-fill.an-cloud:before {
+.ph-cloud-fill:before {
   content: "\e1aa";
 }
-.an-fill.an-cloud-arrow-down:before {
+.ph-cloud-arrow-down-fill:before {
   content: "\e1ac";
 }
-.an-fill.an-cloud-arrow-up:before {
+.ph-cloud-arrow-up-fill:before {
   content: "\e1ae";
 }
-.an-fill.an-cloud-check:before {
+.ph-cloud-check-fill:before {
   content: "\e1b0";
 }
-.an-fill.an-cloud-fog:before {
+.ph-cloud-fog-fill:before {
   content: "\e53c";
 }
-.an-fill.an-cloud-lightning:before {
+.ph-cloud-lightning-fill:before {
   content: "\e1b2";
 }
-.an-fill.an-cloud-moon:before {
+.ph-cloud-moon-fill:before {
   content: "\e53e";
 }
-.an-fill.an-cloud-rain:before {
+.ph-cloud-rain-fill:before {
   content: "\e1b4";
 }
-.an-fill.an-cloud-slash:before {
+.ph-cloud-slash-fill:before {
   content: "\e1b6";
 }
-.an-fill.an-cloud-snow:before {
+.ph-cloud-snow-fill:before {
   content: "\e1b8";
 }
-.an-fill.an-cloud-sun:before {
+.ph-cloud-sun-fill:before {
   content: "\e540";
 }
-.an-fill.an-cloud-warning:before {
+.ph-cloud-warning-fill:before {
   content: "\ea98";
 }
-.an-fill.an-cloud-x:before {
+.ph-cloud-x-fill:before {
   content: "\ea96";
 }
-.an-fill.an-clover:before {
+.ph-clover-fill:before {
   content: "\edc8";
 }
-.an-fill.an-club:before {
+.ph-club-fill:before {
   content: "\e1ba";
 }
-.an-fill.an-coat-hanger:before {
+.ph-coat-hanger-fill:before {
   content: "\e7fe";
 }
-.an-fill.an-coda-logo:before {
+.ph-coda-logo-fill:before {
   content: "\e7ce";
 }
-.an-fill.an-code:before {
+.ph-code-fill:before {
   content: "\e1bc";
 }
-.an-fill.an-code-block:before {
+.ph-code-block-fill:before {
   content: "\eafe";
 }
-.an-fill.an-code-simple:before {
+.ph-code-simple-fill:before {
   content: "\e1be";
 }
-.an-fill.an-codepen-logo:before {
+.ph-codepen-logo-fill:before {
   content: "\e978";
 }
-.an-fill.an-codesandbox-logo:before {
+.ph-codesandbox-logo-fill:before {
   content: "\ea06";
 }
-.an-fill.an-coffee:before {
+.ph-coffee-fill:before {
   content: "\e1c2";
 }
-.an-fill.an-coffee-bean:before {
+.ph-coffee-bean-fill:before {
   content: "\e1c0";
 }
-.an-fill.an-coin:before {
+.ph-coin-fill:before {
   content: "\e60e";
 }
-.an-fill.an-coin-vertical:before {
+.ph-coin-vertical-fill:before {
   content: "\eb48";
 }
-.an-fill.an-coins:before {
+.ph-coins-fill:before {
   content: "\e78e";
 }
-.an-fill.an-columns:before {
+.ph-columns-fill:before {
   content: "\e546";
 }
-.an-fill.an-columns-plus-left:before {
+.ph-columns-plus-left-fill:before {
   content: "\e544";
 }
-.an-fill.an-columns-plus-right:before {
+.ph-columns-plus-right-fill:before {
   content: "\e542";
 }
-.an-fill.an-command:before {
+.ph-command-fill:before {
   content: "\e1c4";
 }
-.an-fill.an-compass:before {
+.ph-compass-fill:before {
   content: "\e1c8";
 }
-.an-fill.an-compass-rose:before {
+.ph-compass-rose-fill:before {
   content: "\e1c6";
 }
-.an-fill.an-compass-tool:before {
+.ph-compass-tool-fill:before {
   content: "\ea0e";
 }
-.an-fill.an-computer-tower:before {
+.ph-computer-tower-fill:before {
   content: "\e548";
 }
-.an-fill.an-confetti:before {
+.ph-confetti-fill:before {
   content: "\e81a";
 }
-.an-fill.an-contactless-payment:before {
+.ph-contactless-payment-fill:before {
   content: "\ed42";
 }
-.an-fill.an-control:before {
+.ph-control-fill:before {
   content: "\eca6";
 }
-.an-fill.an-cookie:before {
+.ph-cookie-fill:before {
   content: "\e6ca";
 }
-.an-fill.an-cooking-pot:before {
+.ph-cooking-pot-fill:before {
   content: "\e764";
 }
-.an-fill.an-copy:before {
+.ph-copy-fill:before {
   content: "\e1ca";
 }
-.an-fill.an-copy-simple:before {
+.ph-copy-simple-fill:before {
   content: "\e1cc";
 }
-.an-fill.an-copyleft:before {
+.ph-copyleft-fill:before {
   content: "\e86a";
 }
-.an-fill.an-copyright:before {
+.ph-copyright-fill:before {
   content: "\e54a";
 }
-.an-fill.an-corners-in:before {
+.ph-corners-in-fill:before {
   content: "\e1ce";
 }
-.an-fill.an-corners-out:before {
+.ph-corners-out-fill:before {
   content: "\e1d0";
 }
-.an-fill.an-couch:before {
+.ph-couch-fill:before {
   content: "\e7f6";
 }
-.an-fill.an-court-basketball:before {
+.ph-court-basketball-fill:before {
   content: "\ee36";
 }
-.an-fill.an-cow:before {
+.ph-cow-fill:before {
   content: "\eabe";
 }
-.an-fill.an-cowboy-hat:before {
+.ph-cowboy-hat-fill:before {
   content: "\ed12";
 }
-.an-fill.an-cpu:before {
+.ph-cpu-fill:before {
   content: "\e610";
 }
-.an-fill.an-crane:before {
+.ph-crane-fill:before {
   content: "\ed48";
 }
-.an-fill.an-crane-tower:before {
+.ph-crane-tower-fill:before {
   content: "\ed49";
 }
-.an-fill.an-credit-card:before {
+.ph-credit-card-fill:before {
   content: "\e1d2";
 }
-.an-fill.an-cricket:before {
+.ph-cricket-fill:before {
   content: "\ee12";
 }
-.an-fill.an-crop:before {
+.ph-crop-fill:before {
   content: "\e1d4";
 }
-.an-fill.an-cross:before {
+.ph-cross-fill:before {
   content: "\e8a0";
 }
-.an-fill.an-crosshair:before {
+.ph-crosshair-fill:before {
   content: "\e1d6";
 }
-.an-fill.an-crosshair-simple:before {
+.ph-crosshair-simple-fill:before {
   content: "\e1d8";
 }
-.an-fill.an-crown:before {
+.ph-crown-fill:before {
   content: "\e614";
 }
-.an-fill.an-crown-cross:before {
+.ph-crown-cross-fill:before {
   content: "\ee5e";
 }
-.an-fill.an-crown-simple:before {
+.ph-crown-simple-fill:before {
   content: "\e616";
 }
-.an-fill.an-cube:before {
+.ph-cube-fill:before {
   content: "\e1da";
 }
-.an-fill.an-cube-focus:before {
+.ph-cube-focus-fill:before {
   content: "\ed0a";
 }
-.an-fill.an-cube-transparent:before {
+.ph-cube-transparent-fill:before {
   content: "\ec7c";
 }
-.an-fill.an-currency-btc:before {
+.ph-currency-btc-fill:before {
   content: "\e618";
 }
-.an-fill.an-currency-circle-dollar:before {
+.ph-currency-circle-dollar-fill:before {
   content: "\e54c";
 }
-.an-fill.an-currency-cny:before {
+.ph-currency-cny-fill:before {
   content: "\e54e";
 }
-.an-fill.an-currency-dollar:before {
+.ph-currency-dollar-fill:before {
   content: "\e550";
 }
-.an-fill.an-currency-dollar-simple:before {
+.ph-currency-dollar-simple-fill:before {
   content: "\e552";
 }
-.an-fill.an-currency-eth:before {
+.ph-currency-eth-fill:before {
   content: "\eada";
 }
-.an-fill.an-currency-eur:before {
+.ph-currency-eur-fill:before {
   content: "\e554";
 }
-.an-fill.an-currency-gbp:before {
+.ph-currency-gbp-fill:before {
   content: "\e556";
 }
-.an-fill.an-currency-inr:before {
+.ph-currency-inr-fill:before {
   content: "\e558";
 }
-.an-fill.an-currency-jpy:before {
+.ph-currency-jpy-fill:before {
   content: "\e55a";
 }
-.an-fill.an-currency-krw:before {
+.ph-currency-krw-fill:before {
   content: "\e55c";
 }
-.an-fill.an-currency-kzt:before {
+.ph-currency-kzt-fill:before {
   content: "\ec4c";
 }
-.an-fill.an-currency-ngn:before {
+.ph-currency-ngn-fill:before {
   content: "\eb52";
 }
-.an-fill.an-currency-rub:before {
+.ph-currency-rub-fill:before {
   content: "\e55e";
 }
-.an-fill.an-cursor:before {
+.ph-cursor-fill:before {
   content: "\e1dc";
 }
-.an-fill.an-cursor-click:before {
+.ph-cursor-click-fill:before {
   content: "\e7c8";
 }
-.an-fill.an-cursor-text:before {
+.ph-cursor-text-fill:before {
   content: "\e7d8";
 }
-.an-fill.an-cylinder:before {
+.ph-cylinder-fill:before {
   content: "\e8fc";
 }
-.an-fill.an-database:before {
+.ph-database-fill:before {
   content: "\e1de";
 }
-.an-fill.an-desk:before {
+.ph-desk-fill:before {
   content: "\ed16";
 }
-.an-fill.an-desktop:before {
+.ph-desktop-fill:before {
   content: "\e560";
 }
-.an-fill.an-desktop-tower:before {
+.ph-desktop-tower-fill:before {
   content: "\e562";
 }
-.an-fill.an-detective:before {
+.ph-detective-fill:before {
   content: "\e83e";
 }
-.an-fill.an-dev-to-logo:before {
+.ph-dev-to-logo-fill:before {
   content: "\ed0e";
 }
-.an-fill.an-device-mobile:before {
+.ph-device-mobile-fill:before {
   content: "\e1e0";
 }
-.an-fill.an-device-mobile-camera:before {
+.ph-device-mobile-camera-fill:before {
   content: "\e1e2";
 }
-.an-fill.an-device-mobile-slash:before {
+.ph-device-mobile-slash-fill:before {
   content: "\ee46";
 }
-.an-fill.an-device-mobile-speaker:before {
+.ph-device-mobile-speaker-fill:before {
   content: "\e1e4";
 }
-.an-fill.an-device-rotate:before {
+.ph-device-rotate-fill:before {
   content: "\edf2";
 }
-.an-fill.an-device-tablet:before {
+.ph-device-tablet-fill:before {
   content: "\e1e6";
 }
-.an-fill.an-device-tablet-camera:before {
+.ph-device-tablet-camera-fill:before {
   content: "\e1e8";
 }
-.an-fill.an-device-tablet-speaker:before {
+.ph-device-tablet-speaker-fill:before {
   content: "\e1ea";
 }
-.an-fill.an-devices:before {
+.ph-devices-fill:before {
   content: "\eba4";
 }
-.an-fill.an-diamond:before {
+.ph-diamond-fill:before {
   content: "\e1ec";
 }
-.an-fill.an-diamonds-four:before {
+.ph-diamonds-four-fill:before {
   content: "\e8f4";
 }
-.an-fill.an-dice-five:before {
+.ph-dice-five-fill:before {
   content: "\e1ee";
 }
-.an-fill.an-dice-four:before {
+.ph-dice-four-fill:before {
   content: "\e1f0";
 }
-.an-fill.an-dice-one:before {
+.ph-dice-one-fill:before {
   content: "\e1f2";
 }
-.an-fill.an-dice-six:before {
+.ph-dice-six-fill:before {
   content: "\e1f4";
 }
-.an-fill.an-dice-three:before {
+.ph-dice-three-fill:before {
   content: "\e1f6";
 }
-.an-fill.an-dice-two:before {
+.ph-dice-two-fill:before {
   content: "\e1f8";
 }
-.an-fill.an-disc:before {
+.ph-disc-fill:before {
   content: "\e564";
 }
-.an-fill.an-disco-ball:before {
+.ph-disco-ball-fill:before {
   content: "\ed98";
 }
-.an-fill.an-discord-logo:before {
+.ph-discord-logo-fill:before {
   content: "\e61a";
 }
-.an-fill.an-divide:before {
+.ph-divide-fill:before {
   content: "\e1fa";
 }
-.an-fill.an-dna:before {
+.ph-dna-fill:before {
   content: "\e924";
 }
-.an-fill.an-dog:before {
+.ph-dog-fill:before {
   content: "\e74a";
 }
-.an-fill.an-door:before {
+.ph-door-fill:before {
   content: "\e61c";
 }
-.an-fill.an-door-open:before {
+.ph-door-open-fill:before {
   content: "\e7e6";
 }
-.an-fill.an-dot:before {
+.ph-dot-fill:before {
   content: "\ecde";
 }
-.an-fill.an-dot-outline:before {
+.ph-dot-outline-fill:before {
   content: "\ece0";
 }
-.an-fill.an-dots-nine:before {
+.ph-dots-nine-fill:before {
   content: "\e1fc";
 }
-.an-fill.an-dots-six:before {
+.ph-dots-six-fill:before {
   content: "\e794";
 }
-.an-fill.an-dots-six-vertical:before {
+.ph-dots-six-vertical-fill:before {
   content: "\eae2";
 }
-.an-fill.an-dots-three:before {
+.ph-dots-three-fill:before {
   content: "\e1fe";
 }
-.an-fill.an-dots-three-circle:before {
+.ph-dots-three-circle-fill:before {
   content: "\e200";
 }
-.an-fill.an-dots-three-circle-vertical:before {
+.ph-dots-three-circle-vertical-fill:before {
   content: "\e202";
 }
-.an-fill.an-dots-three-outline:before {
+.ph-dots-three-outline-fill:before {
   content: "\e204";
 }
-.an-fill.an-dots-three-outline-vertical:before {
+.ph-dots-three-outline-vertical-fill:before {
   content: "\e206";
 }
-.an-fill.an-dots-three-vertical:before {
+.ph-dots-three-vertical-fill:before {
   content: "\e208";
 }
-.an-fill.an-download:before {
+.ph-download-fill:before {
   content: "\e20a";
 }
-.an-fill.an-download-simple:before {
+.ph-download-simple-fill:before {
   content: "\e20c";
 }
-.an-fill.an-dress:before {
+.ph-dress-fill:before {
   content: "\ea7e";
 }
-.an-fill.an-dresser:before {
+.ph-dresser-fill:before {
   content: "\e94e";
 }
-.an-fill.an-dribbble-logo:before {
+.ph-dribbble-logo-fill:before {
   content: "\e20e";
 }
-.an-fill.an-drone:before {
+.ph-drone-fill:before {
   content: "\ed74";
 }
-.an-fill.an-drop:before {
+.ph-drop-fill:before {
   content: "\e210";
 }
-.an-fill.an-drop-half:before {
+.ph-drop-half-fill:before {
   content: "\e566";
 }
-.an-fill.an-drop-half-bottom:before {
+.ph-drop-half-bottom-fill:before {
   content: "\eb40";
 }
-.an-fill.an-drop-simple:before {
+.ph-drop-simple-fill:before {
   content: "\ee32";
 }
-.an-fill.an-drop-slash:before {
+.ph-drop-slash-fill:before {
   content: "\e954";
 }
-.an-fill.an-dropbox-logo:before {
+.ph-dropbox-logo-fill:before {
   content: "\e7d0";
 }
-.an-fill.an-ear:before {
+.ph-ear-fill:before {
   content: "\e70c";
 }
-.an-fill.an-ear-slash:before {
+.ph-ear-slash-fill:before {
   content: "\e70e";
 }
-.an-fill.an-egg:before {
+.ph-egg-fill:before {
   content: "\e812";
 }
-.an-fill.an-egg-crack:before {
+.ph-egg-crack-fill:before {
   content: "\eb64";
 }
-.an-fill.an-eject:before {
+.ph-eject-fill:before {
   content: "\e212";
 }
-.an-fill.an-eject-simple:before {
+.ph-eject-simple-fill:before {
   content: "\e6ae";
 }
-.an-fill.an-elevator:before {
+.ph-elevator-fill:before {
   content: "\ecc0";
 }
-.an-fill.an-empty:before {
+.ph-empty-fill:before {
   content: "\edbc";
 }
-.an-fill.an-engine:before {
+.ph-engine-fill:before {
   content: "\ea80";
 }
-.an-fill.an-envelope:before {
+.ph-envelope-fill:before {
   content: "\e214";
 }
-.an-fill.an-envelope-open:before {
+.ph-envelope-open-fill:before {
   content: "\e216";
 }
-.an-fill.an-envelope-simple:before {
+.ph-envelope-simple-fill:before {
   content: "\e218";
 }
-.an-fill.an-envelope-simple-open:before {
+.ph-envelope-simple-open-fill:before {
   content: "\e21a";
 }
-.an-fill.an-equalizer:before {
+.ph-equalizer-fill:before {
   content: "\ebbc";
 }
-.an-fill.an-equals:before {
+.ph-equals-fill:before {
   content: "\e21c";
 }
-.an-fill.an-eraser:before {
+.ph-eraser-fill:before {
   content: "\e21e";
 }
-.an-fill.an-escalator-down:before {
+.ph-escalator-down-fill:before {
   content: "\ecba";
 }
-.an-fill.an-escalator-up:before {
+.ph-escalator-up-fill:before {
   content: "\ecbc";
 }
-.an-fill.an-exam:before {
+.ph-exam-fill:before {
   content: "\e742";
 }
-.an-fill.an-exclamation-mark:before {
+.ph-exclamation-mark-fill:before {
   content: "\ee44";
 }
-.an-fill.an-exclude:before {
+.ph-exclude-fill:before {
   content: "\e882";
 }
-.an-fill.an-exclude-square:before {
+.ph-exclude-square-fill:before {
   content: "\e880";
 }
-.an-fill.an-export:before {
+.ph-export-fill:before {
   content: "\eaf0";
 }
-.an-fill.an-eye:before {
+.ph-eye-fill:before {
   content: "\e220";
 }
-.an-fill.an-eye-closed:before {
+.ph-eye-closed-fill:before {
   content: "\e222";
 }
-.an-fill.an-eye-slash:before {
+.ph-eye-slash-fill:before {
   content: "\e224";
 }
-.an-fill.an-eyedropper:before {
+.ph-eyedropper-fill:before {
   content: "\e568";
 }
-.an-fill.an-eyedropper-sample:before {
+.ph-eyedropper-sample-fill:before {
   content: "\eac4";
 }
-.an-fill.an-eyeglasses:before {
+.ph-eyeglasses-fill:before {
   content: "\e7ba";
 }
-.an-fill.an-eyes:before {
+.ph-eyes-fill:before {
   content: "\ee5c";
 }
-.an-fill.an-face-mask:before {
+.ph-face-mask-fill:before {
   content: "\e56a";
 }
-.an-fill.an-facebook-logo:before {
+.ph-facebook-logo-fill:before {
   content: "\e226";
 }
-.an-fill.an-factory:before {
+.ph-factory-fill:before {
   content: "\e760";
 }
-.an-fill.an-faders:before {
+.ph-faders-fill:before {
   content: "\e228";
 }
-.an-fill.an-faders-horizontal:before {
+.ph-faders-horizontal-fill:before {
   content: "\e22a";
 }
-.an-fill.an-fallout-shelter:before {
+.ph-fallout-shelter-fill:before {
   content: "\e9de";
 }
-.an-fill.an-fan:before {
+.ph-fan-fill:before {
   content: "\e9f2";
 }
-.an-fill.an-farm:before {
+.ph-farm-fill:before {
   content: "\ec70";
 }
-.an-fill.an-fast-forward:before {
+.ph-fast-forward-fill:before {
   content: "\e6a6";
 }
-.an-fill.an-fast-forward-circle:before {
+.ph-fast-forward-circle-fill:before {
   content: "\e22c";
 }
-.an-fill.an-feather:before {
+.ph-feather-fill:before {
   content: "\e9c0";
 }
-.an-fill.an-fediverse-logo:before {
+.ph-fediverse-logo-fill:before {
   content: "\ed66";
 }
-.an-fill.an-figma-logo:before {
+.ph-figma-logo-fill:before {
   content: "\e22e";
 }
-.an-fill.an-file:before {
+.ph-file-fill:before {
   content: "\e230";
 }
-.an-fill.an-file-archive:before {
+.ph-file-archive-fill:before {
   content: "\eb2a";
 }
-.an-fill.an-file-arrow-down:before {
+.ph-file-arrow-down-fill:before {
   content: "\e232";
 }
-.an-fill.an-file-arrow-up:before {
+.ph-file-arrow-up-fill:before {
   content: "\e61e";
 }
-.an-fill.an-file-audio:before {
+.ph-file-audio-fill:before {
   content: "\ea20";
 }
-.an-fill.an-file-c:before {
+.ph-file-c-fill:before {
   content: "\eb32";
 }
-.an-fill.an-file-c-sharp:before {
+.ph-file-c-sharp-fill:before {
   content: "\eb30";
 }
-.an-fill.an-file-cloud:before {
+.ph-file-cloud-fill:before {
   content: "\e95e";
 }
-.an-fill.an-file-code:before {
+.ph-file-code-fill:before {
   content: "\e914";
 }
-.an-fill.an-file-cpp:before {
+.ph-file-cpp-fill:before {
   content: "\eb2e";
 }
-.an-fill.an-file-css:before {
+.ph-file-css-fill:before {
   content: "\eb34";
 }
-.an-fill.an-file-csv:before {
+.ph-file-csv-fill:before {
   content: "\eb1c";
 }
-.an-fill.an-file-dashed:before {
+.ph-file-dashed-fill:before {
   content: "\e704";
 }
-.an-fill.an-file-dotted:before {
+.ph-file-dotted-fill:before {
   content: "\e704";
 }
-.an-fill.an-file-doc:before {
+.ph-file-doc-fill:before {
   content: "\eb1e";
 }
-.an-fill.an-file-html:before {
+.ph-file-html-fill:before {
   content: "\eb38";
 }
-.an-fill.an-file-image:before {
+.ph-file-image-fill:before {
   content: "\ea24";
 }
-.an-fill.an-file-ini:before {
+.ph-file-ini-fill:before {
   content: "\eb33";
 }
-.an-fill.an-file-jpg:before {
+.ph-file-jpg-fill:before {
   content: "\eb1a";
 }
-.an-fill.an-file-js:before {
+.ph-file-js-fill:before {
   content: "\eb24";
 }
-.an-fill.an-file-jsx:before {
+.ph-file-jsx-fill:before {
   content: "\eb3a";
 }
-.an-fill.an-file-lock:before {
+.ph-file-lock-fill:before {
   content: "\e95c";
 }
-.an-fill.an-file-magnifying-glass:before {
+.ph-file-magnifying-glass-fill:before {
   content: "\e238";
 }
-.an-fill.an-file-search:before {
+.ph-file-search-fill:before {
   content: "\e238";
 }
-.an-fill.an-file-md:before {
+.ph-file-md-fill:before {
   content: "\ed50";
 }
-.an-fill.an-file-minus:before {
+.ph-file-minus-fill:before {
   content: "\e234";
 }
-.an-fill.an-file-pdf:before {
+.ph-file-pdf-fill:before {
   content: "\e702";
 }
-.an-fill.an-file-plus:before {
+.ph-file-plus-fill:before {
   content: "\e236";
 }
-.an-fill.an-file-png:before {
+.ph-file-png-fill:before {
   content: "\eb18";
 }
-.an-fill.an-file-ppt:before {
+.ph-file-ppt-fill:before {
   content: "\eb20";
 }
-.an-fill.an-file-py:before {
+.ph-file-py-fill:before {
   content: "\eb2c";
 }
-.an-fill.an-file-rs:before {
+.ph-file-rs-fill:before {
   content: "\eb28";
 }
-.an-fill.an-file-sql:before {
+.ph-file-sql-fill:before {
   content: "\ed4e";
 }
-.an-fill.an-file-svg:before {
+.ph-file-svg-fill:before {
   content: "\ed08";
 }
-.an-fill.an-file-text:before {
+.ph-file-text-fill:before {
   content: "\e23a";
 }
-.an-fill.an-file-ts:before {
+.ph-file-ts-fill:before {
   content: "\eb26";
 }
-.an-fill.an-file-tsx:before {
+.ph-file-tsx-fill:before {
   content: "\eb3c";
 }
-.an-fill.an-file-txt:before {
+.ph-file-txt-fill:before {
   content: "\eb35";
 }
-.an-fill.an-file-video:before {
+.ph-file-video-fill:before {
   content: "\ea22";
 }
-.an-fill.an-file-vue:before {
+.ph-file-vue-fill:before {
   content: "\eb3e";
 }
-.an-fill.an-file-x:before {
+.ph-file-x-fill:before {
   content: "\e23c";
 }
-.an-fill.an-file-xls:before {
+.ph-file-xls-fill:before {
   content: "\eb22";
 }
-.an-fill.an-file-zip:before {
+.ph-file-zip-fill:before {
   content: "\e958";
 }
-.an-fill.an-files:before {
+.ph-files-fill:before {
   content: "\e710";
 }
-.an-fill.an-film-reel:before {
+.ph-film-reel-fill:before {
   content: "\e8c0";
 }
-.an-fill.an-film-script:before {
+.ph-film-script-fill:before {
   content: "\eb50";
 }
-.an-fill.an-film-slate:before {
+.ph-film-slate-fill:before {
   content: "\e8c2";
 }
-.an-fill.an-film-strip:before {
+.ph-film-strip-fill:before {
   content: "\e792";
 }
-.an-fill.an-fingerprint:before {
+.ph-fingerprint-fill:before {
   content: "\e23e";
 }
-.an-fill.an-fingerprint-simple:before {
+.ph-fingerprint-simple-fill:before {
   content: "\e240";
 }
-.an-fill.an-finn-the-human:before {
+.ph-finn-the-human-fill:before {
   content: "\e56c";
 }
-.an-fill.an-fire:before {
+.ph-fire-fill:before {
   content: "\e242";
 }
-.an-fill.an-fire-extinguisher:before {
+.ph-fire-extinguisher-fill:before {
   content: "\e9e8";
 }
-.an-fill.an-fire-simple:before {
+.ph-fire-simple-fill:before {
   content: "\e620";
 }
-.an-fill.an-fire-truck:before {
+.ph-fire-truck-fill:before {
   content: "\e574";
 }
-.an-fill.an-first-aid:before {
+.ph-first-aid-fill:before {
   content: "\e56e";
 }
-.an-fill.an-first-aid-kit:before {
+.ph-first-aid-kit-fill:before {
   content: "\e570";
 }
-.an-fill.an-fish:before {
+.ph-fish-fill:before {
   content: "\e728";
 }
-.an-fill.an-fish-simple:before {
+.ph-fish-simple-fill:before {
   content: "\e72a";
 }
-.an-fill.an-flag:before {
+.ph-flag-fill:before {
   content: "\e244";
 }
-.an-fill.an-flag-banner:before {
+.ph-flag-banner-fill:before {
   content: "\e622";
 }
-.an-fill.an-flag-banner-fold:before {
+.ph-flag-banner-fold-fill:before {
   content: "\ecf2";
 }
-.an-fill.an-flag-checkered:before {
+.ph-flag-checkered-fill:before {
   content: "\ea38";
 }
-.an-fill.an-flag-pennant:before {
+.ph-flag-pennant-fill:before {
   content: "\ecf0";
 }
-.an-fill.an-flame:before {
+.ph-flame-fill:before {
   content: "\e624";
 }
-.an-fill.an-flashlight:before {
+.ph-flashlight-fill:before {
   content: "\e246";
 }
-.an-fill.an-flask:before {
+.ph-flask-fill:before {
   content: "\e79e";
 }
-.an-fill.an-flip-horizontal:before {
+.ph-flip-horizontal-fill:before {
   content: "\ed6a";
 }
-.an-fill.an-flip-vertical:before {
+.ph-flip-vertical-fill:before {
   content: "\ed6c";
 }
-.an-fill.an-floppy-disk:before {
+.ph-floppy-disk-fill:before {
   content: "\e248";
 }
-.an-fill.an-floppy-disk-back:before {
+.ph-floppy-disk-back-fill:before {
   content: "\eaf4";
 }
-.an-fill.an-flow-arrow:before {
+.ph-flow-arrow-fill:before {
   content: "\e6ec";
 }
-.an-fill.an-flower:before {
+.ph-flower-fill:before {
   content: "\e75e";
 }
-.an-fill.an-flower-lotus:before {
+.ph-flower-lotus-fill:before {
   content: "\e6cc";
 }
-.an-fill.an-flower-tulip:before {
+.ph-flower-tulip-fill:before {
   content: "\eacc";
 }
-.an-fill.an-flying-saucer:before {
+.ph-flying-saucer-fill:before {
   content: "\eb4a";
 }
-.an-fill.an-folder:before {
+.ph-folder-fill:before {
   content: "\e24a";
 }
-.an-fill.an-folder-notch:before {
+.ph-folder-notch-fill:before {
   content: "\e24a";
 }
-.an-fill.an-folder-dashed:before {
+.ph-folder-dashed-fill:before {
   content: "\e8f8";
 }
-.an-fill.an-folder-dotted:before {
+.ph-folder-dotted-fill:before {
   content: "\e8f8";
 }
-.an-fill.an-folder-lock:before {
+.ph-folder-lock-fill:before {
   content: "\ea3c";
 }
-.an-fill.an-folder-minus:before {
+.ph-folder-minus-fill:before {
   content: "\e254";
 }
-.an-fill.an-folder-notch-minus:before {
+.ph-folder-notch-minus-fill:before {
   content: "\e254";
 }
-.an-fill.an-folder-open:before {
+.ph-folder-open-fill:before {
   content: "\e256";
 }
-.an-fill.an-folder-notch-open:before {
+.ph-folder-notch-open-fill:before {
   content: "\e256";
 }
-.an-fill.an-folder-plus:before {
+.ph-folder-plus-fill:before {
   content: "\e258";
 }
-.an-fill.an-folder-notch-plus:before {
+.ph-folder-notch-plus-fill:before {
   content: "\e258";
 }
-.an-fill.an-folder-simple:before {
+.ph-folder-simple-fill:before {
   content: "\e25a";
 }
-.an-fill.an-folder-simple-dashed:before {
+.ph-folder-simple-dashed-fill:before {
   content: "\ec2a";
 }
-.an-fill.an-folder-simple-dotted:before {
+.ph-folder-simple-dotted-fill:before {
   content: "\ec2a";
 }
-.an-fill.an-folder-simple-lock:before {
+.ph-folder-simple-lock-fill:before {
   content: "\eb5e";
 }
-.an-fill.an-folder-simple-minus:before {
+.ph-folder-simple-minus-fill:before {
   content: "\e25c";
 }
-.an-fill.an-folder-simple-plus:before {
+.ph-folder-simple-plus-fill:before {
   content: "\e25e";
 }
-.an-fill.an-folder-simple-star:before {
+.ph-folder-simple-star-fill:before {
   content: "\ec2e";
 }
-.an-fill.an-folder-simple-user:before {
+.ph-folder-simple-user-fill:before {
   content: "\eb60";
 }
-.an-fill.an-folder-star:before {
+.ph-folder-star-fill:before {
   content: "\ea86";
 }
-.an-fill.an-folder-user:before {
+.ph-folder-user-fill:before {
   content: "\eb46";
 }
-.an-fill.an-folders:before {
+.ph-folders-fill:before {
   content: "\e260";
 }
-.an-fill.an-football:before {
+.ph-football-fill:before {
   content: "\e718";
 }
-.an-fill.an-football-helmet:before {
+.ph-football-helmet-fill:before {
   content: "\ee4c";
 }
-.an-fill.an-footprints:before {
+.ph-footprints-fill:before {
   content: "\ea88";
 }
-.an-fill.an-fork-knife:before {
+.ph-fork-knife-fill:before {
   content: "\e262";
 }
-.an-fill.an-four-k:before {
+.ph-four-k-fill:before {
   content: "\ea5c";
 }
-.an-fill.an-frame-corners:before {
+.ph-frame-corners-fill:before {
   content: "\e626";
 }
-.an-fill.an-framer-logo:before {
+.ph-framer-logo-fill:before {
   content: "\e264";
 }
-.an-fill.an-function:before {
+.ph-function-fill:before {
   content: "\ebe4";
 }
-.an-fill.an-funnel:before {
+.ph-funnel-fill:before {
   content: "\e266";
 }
-.an-fill.an-funnel-simple:before {
+.ph-funnel-simple-fill:before {
   content: "\e268";
 }
-.an-fill.an-funnel-simple-x:before {
+.ph-funnel-simple-x-fill:before {
   content: "\e26a";
 }
-.an-fill.an-funnel-x:before {
+.ph-funnel-x-fill:before {
   content: "\e26c";
 }
-.an-fill.an-game-controller:before {
+.ph-game-controller-fill:before {
   content: "\e26e";
 }
-.an-fill.an-garage:before {
+.ph-garage-fill:before {
   content: "\ecd6";
 }
-.an-fill.an-gas-can:before {
+.ph-gas-can-fill:before {
   content: "\e8ce";
 }
-.an-fill.an-gas-pump:before {
+.ph-gas-pump-fill:before {
   content: "\e768";
 }
-.an-fill.an-gauge:before {
+.ph-gauge-fill:before {
   content: "\e628";
 }
-.an-fill.an-gavel:before {
+.ph-gavel-fill:before {
   content: "\ea32";
 }
-.an-fill.an-gear:before {
+.ph-gear-fill:before {
   content: "\e270";
 }
-.an-fill.an-gear-fine:before {
+.ph-gear-fine-fill:before {
   content: "\e87c";
 }
-.an-fill.an-gear-six:before {
+.ph-gear-six-fill:before {
   content: "\e272";
 }
-.an-fill.an-gender-female:before {
+.ph-gender-female-fill:before {
   content: "\e6e0";
 }
-.an-fill.an-gender-intersex:before {
+.ph-gender-intersex-fill:before {
   content: "\e6e6";
 }
-.an-fill.an-gender-male:before {
+.ph-gender-male-fill:before {
   content: "\e6e2";
 }
-.an-fill.an-gender-neuter:before {
+.ph-gender-neuter-fill:before {
   content: "\e6ea";
 }
-.an-fill.an-gender-nonbinary:before {
+.ph-gender-nonbinary-fill:before {
   content: "\e6e4";
 }
-.an-fill.an-gender-transgender:before {
+.ph-gender-transgender-fill:before {
   content: "\e6e8";
 }
-.an-fill.an-ghost:before {
+.ph-ghost-fill:before {
   content: "\e62a";
 }
-.an-fill.an-gif:before {
+.ph-gif-fill:before {
   content: "\e274";
 }
-.an-fill.an-gift:before {
+.ph-gift-fill:before {
   content: "\e276";
 }
-.an-fill.an-git-branch:before {
+.ph-git-branch-fill:before {
   content: "\e278";
 }
-.an-fill.an-git-commit:before {
+.ph-git-commit-fill:before {
   content: "\e27a";
 }
-.an-fill.an-git-diff:before {
+.ph-git-diff-fill:before {
   content: "\e27c";
 }
-.an-fill.an-git-fork:before {
+.ph-git-fork-fill:before {
   content: "\e27e";
 }
-.an-fill.an-git-merge:before {
+.ph-git-merge-fill:before {
   content: "\e280";
 }
-.an-fill.an-git-pull-request:before {
+.ph-git-pull-request-fill:before {
   content: "\e282";
 }
-.an-fill.an-github-logo:before {
+.ph-github-logo-fill:before {
   content: "\e576";
 }
-.an-fill.an-gitlab-logo:before {
+.ph-gitlab-logo-fill:before {
   content: "\e694";
 }
-.an-fill.an-gitlab-logo-simple:before {
+.ph-gitlab-logo-simple-fill:before {
   content: "\e696";
 }
-.an-fill.an-globe:before {
+.ph-globe-fill:before {
   content: "\e288";
 }
-.an-fill.an-globe-hemisphere-east:before {
+.ph-globe-hemisphere-east-fill:before {
   content: "\e28a";
 }
-.an-fill.an-globe-hemisphere-west:before {
+.ph-globe-hemisphere-west-fill:before {
   content: "\e28c";
 }
-.an-fill.an-globe-simple:before {
+.ph-globe-simple-fill:before {
   content: "\e28e";
 }
-.an-fill.an-globe-simple-x:before {
+.ph-globe-simple-x-fill:before {
   content: "\e284";
 }
-.an-fill.an-globe-stand:before {
+.ph-globe-stand-fill:before {
   content: "\e290";
 }
-.an-fill.an-globe-x:before {
+.ph-globe-x-fill:before {
   content: "\e286";
 }
-.an-fill.an-goggles:before {
+.ph-goggles-fill:before {
   content: "\ecb4";
 }
-.an-fill.an-golf:before {
+.ph-golf-fill:before {
   content: "\ea3e";
 }
-.an-fill.an-goodreads-logo:before {
+.ph-goodreads-logo-fill:before {
   content: "\ed10";
 }
-.an-fill.an-google-cardboard-logo:before {
+.ph-google-cardboard-logo-fill:before {
   content: "\e7b6";
 }
-.an-fill.an-google-chrome-logo:before {
+.ph-google-chrome-logo-fill:before {
   content: "\e976";
 }
-.an-fill.an-google-drive-logo:before {
+.ph-google-drive-logo-fill:before {
   content: "\e8f6";
 }
-.an-fill.an-google-logo:before {
+.ph-google-logo-fill:before {
   content: "\e292";
 }
-.an-fill.an-google-photos-logo:before {
+.ph-google-photos-logo-fill:before {
   content: "\eb92";
 }
-.an-fill.an-google-play-logo:before {
+.ph-google-play-logo-fill:before {
   content: "\e294";
 }
-.an-fill.an-google-podcasts-logo:before {
+.ph-google-podcasts-logo-fill:before {
   content: "\eb94";
 }
-.an-fill.an-gps:before {
+.ph-gps-fill:before {
   content: "\edd8";
 }
-.an-fill.an-gps-fix:before {
+.ph-gps-fix-fill:before {
   content: "\edd6";
 }
-.an-fill.an-gps-slash:before {
+.ph-gps-slash-fill:before {
   content: "\edd4";
 }
-.an-fill.an-gradient:before {
+.ph-gradient-fill:before {
   content: "\eb42";
 }
-.an-fill.an-graduation-cap:before {
+.ph-graduation-cap-fill:before {
   content: "\e62c";
 }
-.an-fill.an-grains:before {
+.ph-grains-fill:before {
   content: "\ec68";
 }
-.an-fill.an-grains-slash:before {
+.ph-grains-slash-fill:before {
   content: "\ec6a";
 }
-.an-fill.an-graph:before {
+.ph-graph-fill:before {
   content: "\eb58";
 }
-.an-fill.an-graphics-card:before {
+.ph-graphics-card-fill:before {
   content: "\e612";
 }
-.an-fill.an-greater-than:before {
+.ph-greater-than-fill:before {
   content: "\edc4";
 }
-.an-fill.an-greater-than-or-equal:before {
+.ph-greater-than-or-equal-fill:before {
   content: "\eda2";
 }
-.an-fill.an-grid-four:before {
+.ph-grid-four-fill:before {
   content: "\e296";
 }
-.an-fill.an-grid-nine:before {
+.ph-grid-nine-fill:before {
   content: "\ec8c";
 }
-.an-fill.an-guitar:before {
+.ph-guitar-fill:before {
   content: "\ea8a";
 }
-.an-fill.an-hair-dryer:before {
+.ph-hair-dryer-fill:before {
   content: "\ea66";
 }
-.an-fill.an-hamburger:before {
+.ph-hamburger-fill:before {
   content: "\e790";
 }
-.an-fill.an-hammer:before {
+.ph-hammer-fill:before {
   content: "\e80e";
 }
-.an-fill.an-hand:before {
+.ph-hand-fill:before {
   content: "\e298";
 }
-.an-fill.an-hand-arrow-down:before {
+.ph-hand-arrow-down-fill:before {
   content: "\ea4e";
 }
-.an-fill.an-hand-arrow-up:before {
+.ph-hand-arrow-up-fill:before {
   content: "\ee5a";
 }
-.an-fill.an-hand-coins:before {
+.ph-hand-coins-fill:before {
   content: "\ea8c";
 }
-.an-fill.an-hand-deposit:before {
+.ph-hand-deposit-fill:before {
   content: "\ee82";
 }
-.an-fill.an-hand-eye:before {
+.ph-hand-eye-fill:before {
   content: "\ea4c";
 }
-.an-fill.an-hand-fist:before {
+.ph-hand-fist-fill:before {
   content: "\e57a";
 }
-.an-fill.an-hand-grabbing:before {
+.ph-hand-grabbing-fill:before {
   content: "\e57c";
 }
-.an-fill.an-hand-heart:before {
+.ph-hand-heart-fill:before {
   content: "\e810";
 }
-.an-fill.an-hand-palm:before {
+.ph-hand-palm-fill:before {
   content: "\e57e";
 }
-.an-fill.an-hand-peace:before {
+.ph-hand-peace-fill:before {
   content: "\e7cc";
 }
-.an-fill.an-hand-pointing:before {
+.ph-hand-pointing-fill:before {
   content: "\e29a";
 }
-.an-fill.an-hand-soap:before {
+.ph-hand-soap-fill:before {
   content: "\e630";
 }
-.an-fill.an-hand-swipe-left:before {
+.ph-hand-swipe-left-fill:before {
   content: "\ec94";
 }
-.an-fill.an-hand-swipe-right:before {
+.ph-hand-swipe-right-fill:before {
   content: "\ec92";
 }
-.an-fill.an-hand-tap:before {
+.ph-hand-tap-fill:before {
   content: "\ec90";
 }
-.an-fill.an-hand-waving:before {
+.ph-hand-waving-fill:before {
   content: "\e580";
 }
-.an-fill.an-hand-withdraw:before {
+.ph-hand-withdraw-fill:before {
   content: "\ee80";
 }
-.an-fill.an-handbag:before {
+.ph-handbag-fill:before {
   content: "\e29c";
 }
-.an-fill.an-handbag-simple:before {
+.ph-handbag-simple-fill:before {
   content: "\e62e";
 }
-.an-fill.an-hands-clapping:before {
+.ph-hands-clapping-fill:before {
   content: "\e6a0";
 }
-.an-fill.an-hands-praying:before {
+.ph-hands-praying-fill:before {
   content: "\ecc8";
 }
-.an-fill.an-handshake:before {
+.ph-handshake-fill:before {
   content: "\e582";
 }
-.an-fill.an-hard-drive:before {
+.ph-hard-drive-fill:before {
   content: "\e29e";
 }
-.an-fill.an-hard-drives:before {
+.ph-hard-drives-fill:before {
   content: "\e2a0";
 }
-.an-fill.an-hard-hat:before {
+.ph-hard-hat-fill:before {
   content: "\ed46";
 }
-.an-fill.an-hash:before {
+.ph-hash-fill:before {
   content: "\e2a2";
 }
-.an-fill.an-hash-straight:before {
+.ph-hash-straight-fill:before {
   content: "\e2a4";
 }
-.an-fill.an-head-circuit:before {
+.ph-head-circuit-fill:before {
   content: "\e7d4";
 }
-.an-fill.an-headlights:before {
+.ph-headlights-fill:before {
   content: "\e6fe";
 }
-.an-fill.an-headphones:before {
+.ph-headphones-fill:before {
   content: "\e2a6";
 }
-.an-fill.an-headset:before {
+.ph-headset-fill:before {
   content: "\e584";
 }
-.an-fill.an-heart:before {
+.ph-heart-fill:before {
   content: "\e2a8";
 }
-.an-fill.an-heart-break:before {
+.ph-heart-break-fill:before {
   content: "\ebe8";
 }
-.an-fill.an-heart-half:before {
+.ph-heart-half-fill:before {
   content: "\ec48";
 }
-.an-fill.an-heart-straight:before {
+.ph-heart-straight-fill:before {
   content: "\e2aa";
 }
-.an-fill.an-heart-straight-break:before {
+.ph-heart-straight-break-fill:before {
   content: "\eb98";
 }
-.an-fill.an-heartbeat:before {
+.ph-heartbeat-fill:before {
   content: "\e2ac";
 }
-.an-fill.an-hexagon:before {
+.ph-hexagon-fill:before {
   content: "\e2ae";
 }
-.an-fill.an-high-definition:before {
+.ph-high-definition-fill:before {
   content: "\ea8e";
 }
-.an-fill.an-high-heel:before {
+.ph-high-heel-fill:before {
   content: "\e8e8";
 }
-.an-fill.an-highlighter:before {
+.ph-highlighter-fill:before {
   content: "\ec76";
 }
-.an-fill.an-highlighter-circle:before {
+.ph-highlighter-circle-fill:before {
   content: "\e632";
 }
-.an-fill.an-hockey:before {
+.ph-hockey-fill:before {
   content: "\ec86";
 }
-.an-fill.an-hoodie:before {
+.ph-hoodie-fill:before {
   content: "\ecd0";
 }
-.an-fill.an-horse:before {
+.ph-horse-fill:before {
   content: "\e2b0";
 }
-.an-fill.an-hospital:before {
+.ph-hospital-fill:before {
   content: "\e844";
 }
-.an-fill.an-hourglass:before {
+.ph-hourglass-fill:before {
   content: "\e2b2";
 }
-.an-fill.an-hourglass-high:before {
+.ph-hourglass-high-fill:before {
   content: "\e2b4";
 }
-.an-fill.an-hourglass-low:before {
+.ph-hourglass-low-fill:before {
   content: "\e2b6";
 }
-.an-fill.an-hourglass-medium:before {
+.ph-hourglass-medium-fill:before {
   content: "\e2b8";
 }
-.an-fill.an-hourglass-simple:before {
+.ph-hourglass-simple-fill:before {
   content: "\e2ba";
 }
-.an-fill.an-hourglass-simple-high:before {
+.ph-hourglass-simple-high-fill:before {
   content: "\e2bc";
 }
-.an-fill.an-hourglass-simple-low:before {
+.ph-hourglass-simple-low-fill:before {
   content: "\e2be";
 }
-.an-fill.an-hourglass-simple-medium:before {
+.ph-hourglass-simple-medium-fill:before {
   content: "\e2c0";
 }
-.an-fill.an-house:before {
+.ph-house-fill:before {
   content: "\e2c2";
 }
-.an-fill.an-house-line:before {
+.ph-house-line-fill:before {
   content: "\e2c4";
 }
-.an-fill.an-house-simple:before {
+.ph-house-simple-fill:before {
   content: "\e2c6";
 }
-.an-fill.an-hurricane:before {
+.ph-hurricane-fill:before {
   content: "\e88e";
 }
-.an-fill.an-ice-cream:before {
+.ph-ice-cream-fill:before {
   content: "\e804";
 }
-.an-fill.an-identification-badge:before {
+.ph-identification-badge-fill:before {
   content: "\e6f6";
 }
-.an-fill.an-identification-card:before {
+.ph-identification-card-fill:before {
   content: "\e2c8";
 }
-.an-fill.an-image:before {
+.ph-image-fill:before {
   content: "\e2ca";
 }
-.an-fill.an-image-broken:before {
+.ph-image-broken-fill:before {
   content: "\e7a8";
 }
-.an-fill.an-image-square:before {
+.ph-image-square-fill:before {
   content: "\e2cc";
 }
-.an-fill.an-images:before {
+.ph-images-fill:before {
   content: "\e836";
 }
-.an-fill.an-images-square:before {
+.ph-images-square-fill:before {
   content: "\e834";
 }
-.an-fill.an-infinity:before {
+.ph-infinity-fill:before {
   content: "\e634";
 }
-.an-fill.an-lemniscate:before {
+.ph-lemniscate-fill:before {
   content: "\e634";
 }
-.an-fill.an-info:before {
+.ph-info-fill:before {
   content: "\e2ce";
 }
-.an-fill.an-instagram-logo:before {
+.ph-instagram-logo-fill:before {
   content: "\e2d0";
 }
-.an-fill.an-intersect:before {
+.ph-intersect-fill:before {
   content: "\e2d2";
 }
-.an-fill.an-intersect-square:before {
+.ph-intersect-square-fill:before {
   content: "\e87a";
 }
-.an-fill.an-intersect-three:before {
+.ph-intersect-three-fill:before {
   content: "\ecc4";
 }
-.an-fill.an-intersection:before {
+.ph-intersection-fill:before {
   content: "\edba";
 }
-.an-fill.an-invoice:before {
+.ph-invoice-fill:before {
   content: "\ee42";
 }
-.an-fill.an-island:before {
+.ph-island-fill:before {
   content: "\ee06";
 }
-.an-fill.an-jar:before {
+.ph-jar-fill:before {
   content: "\e7e0";
 }
-.an-fill.an-jar-label:before {
+.ph-jar-label-fill:before {
   content: "\e7e1";
 }
-.an-fill.an-jeep:before {
+.ph-jeep-fill:before {
   content: "\e2d4";
 }
-.an-fill.an-joystick:before {
+.ph-joystick-fill:before {
   content: "\ea5e";
 }
-.an-fill.an-kanban:before {
+.ph-kanban-fill:before {
   content: "\eb54";
 }
-.an-fill.an-key:before {
+.ph-key-fill:before {
   content: "\e2d6";
 }
-.an-fill.an-key-return:before {
+.ph-key-return-fill:before {
   content: "\e782";
 }
-.an-fill.an-keyboard:before {
+.ph-keyboard-fill:before {
   content: "\e2d8";
 }
-.an-fill.an-keyhole:before {
+.ph-keyhole-fill:before {
   content: "\ea78";
 }
-.an-fill.an-knife:before {
+.ph-knife-fill:before {
   content: "\e636";
 }
-.an-fill.an-ladder:before {
+.ph-ladder-fill:before {
   content: "\e9e4";
 }
-.an-fill.an-ladder-simple:before {
+.ph-ladder-simple-fill:before {
   content: "\ec26";
 }
-.an-fill.an-lamp:before {
+.ph-lamp-fill:before {
   content: "\e638";
 }
-.an-fill.an-lamp-pendant:before {
+.ph-lamp-pendant-fill:before {
   content: "\ee2e";
 }
-.an-fill.an-laptop:before {
+.ph-laptop-fill:before {
   content: "\e586";
 }
-.an-fill.an-lasso:before {
+.ph-lasso-fill:before {
   content: "\edc6";
 }
-.an-fill.an-lastfm-logo:before {
+.ph-lastfm-logo-fill:before {
   content: "\e842";
 }
-.an-fill.an-layout:before {
+.ph-layout-fill:before {
   content: "\e6d6";
 }
-.an-fill.an-leaf:before {
+.ph-leaf-fill:before {
   content: "\e2da";
 }
-.an-fill.an-lectern:before {
+.ph-lectern-fill:before {
   content: "\e95a";
 }
-.an-fill.an-lego:before {
+.ph-lego-fill:before {
   content: "\e8c6";
 }
-.an-fill.an-lego-smiley:before {
+.ph-lego-smiley-fill:before {
   content: "\e8c7";
 }
-.an-fill.an-less-than:before {
+.ph-less-than-fill:before {
   content: "\edac";
 }
-.an-fill.an-less-than-or-equal:before {
+.ph-less-than-or-equal-fill:before {
   content: "\eda4";
 }
-.an-fill.an-letter-circle-h:before {
+.ph-letter-circle-h-fill:before {
   content: "\ebf8";
 }
-.an-fill.an-letter-circle-p:before {
+.ph-letter-circle-p-fill:before {
   content: "\ec08";
 }
-.an-fill.an-letter-circle-v:before {
+.ph-letter-circle-v-fill:before {
   content: "\ec14";
 }
-.an-fill.an-lifebuoy:before {
+.ph-lifebuoy-fill:before {
   content: "\e63a";
 }
-.an-fill.an-lightbulb:before {
+.ph-lightbulb-fill:before {
   content: "\e2dc";
 }
-.an-fill.an-lightbulb-filament:before {
+.ph-lightbulb-filament-fill:before {
   content: "\e63c";
 }
-.an-fill.an-lighthouse:before {
+.ph-lighthouse-fill:before {
   content: "\e9f6";
 }
-.an-fill.an-lightning:before {
+.ph-lightning-fill:before {
   content: "\e2de";
 }
-.an-fill.an-lightning-a:before {
+.ph-lightning-a-fill:before {
   content: "\ea84";
 }
-.an-fill.an-lightning-slash:before {
+.ph-lightning-slash-fill:before {
   content: "\e2e0";
 }
-.an-fill.an-line-segment:before {
+.ph-line-segment-fill:before {
   content: "\e6d2";
 }
-.an-fill.an-line-segments:before {
+.ph-line-segments-fill:before {
   content: "\e6d4";
 }
-.an-fill.an-line-vertical:before {
+.ph-line-vertical-fill:before {
   content: "\ed70";
 }
-.an-fill.an-link:before {
+.ph-link-fill:before {
   content: "\e2e2";
 }
-.an-fill.an-link-break:before {
+.ph-link-break-fill:before {
   content: "\e2e4";
 }
-.an-fill.an-link-simple:before {
+.ph-link-simple-fill:before {
   content: "\e2e6";
 }
-.an-fill.an-link-simple-break:before {
+.ph-link-simple-break-fill:before {
   content: "\e2e8";
 }
-.an-fill.an-link-simple-horizontal:before {
+.ph-link-simple-horizontal-fill:before {
   content: "\e2ea";
 }
-.an-fill.an-link-simple-horizontal-break:before {
+.ph-link-simple-horizontal-break-fill:before {
   content: "\e2ec";
 }
-.an-fill.an-linkedin-logo:before {
+.ph-linkedin-logo-fill:before {
   content: "\e2ee";
 }
-.an-fill.an-linktree-logo:before {
+.ph-linktree-logo-fill:before {
   content: "\edee";
 }
-.an-fill.an-linux-logo:before {
+.ph-linux-logo-fill:before {
   content: "\eb02";
 }
-.an-fill.an-list:before {
+.ph-list-fill:before {
   content: "\e2f0";
 }
-.an-fill.an-list-bullets:before {
+.ph-list-bullets-fill:before {
   content: "\e2f2";
 }
-.an-fill.an-list-checks:before {
+.ph-list-checks-fill:before {
   content: "\eadc";
 }
-.an-fill.an-list-dashes:before {
+.ph-list-dashes-fill:before {
   content: "\e2f4";
 }
-.an-fill.an-list-heart:before {
+.ph-list-heart-fill:before {
   content: "\ebde";
 }
-.an-fill.an-list-magnifying-glass:before {
+.ph-list-magnifying-glass-fill:before {
   content: "\ebe0";
 }
-.an-fill.an-list-numbers:before {
+.ph-list-numbers-fill:before {
   content: "\e2f6";
 }
-.an-fill.an-list-plus:before {
+.ph-list-plus-fill:before {
   content: "\e2f8";
 }
-.an-fill.an-list-star:before {
+.ph-list-star-fill:before {
   content: "\ebdc";
 }
-.an-fill.an-lock:before {
+.ph-lock-fill:before {
   content: "\e2fa";
 }
-.an-fill.an-lock-key:before {
+.ph-lock-key-fill:before {
   content: "\e2fe";
 }
-.an-fill.an-lock-key-open:before {
+.ph-lock-key-open-fill:before {
   content: "\e300";
 }
-.an-fill.an-lock-laminated:before {
+.ph-lock-laminated-fill:before {
   content: "\e302";
 }
-.an-fill.an-lock-laminated-open:before {
+.ph-lock-laminated-open-fill:before {
   content: "\e304";
 }
-.an-fill.an-lock-open:before {
+.ph-lock-open-fill:before {
   content: "\e306";
 }
-.an-fill.an-lock-simple:before {
+.ph-lock-simple-fill:before {
   content: "\e308";
 }
-.an-fill.an-lock-simple-open:before {
+.ph-lock-simple-open-fill:before {
   content: "\e30a";
 }
-.an-fill.an-lockers:before {
+.ph-lockers-fill:before {
   content: "\ecb8";
 }
-.an-fill.an-log:before {
+.ph-log-fill:before {
   content: "\ed82";
 }
-.an-fill.an-magic-wand:before {
+.ph-magic-wand-fill:before {
   content: "\e6b6";
 }
-.an-fill.an-magnet:before {
+.ph-magnet-fill:before {
   content: "\e680";
 }
-.an-fill.an-magnet-straight:before {
+.ph-magnet-straight-fill:before {
   content: "\e682";
 }
-.an-fill.an-magnifying-glass:before {
+.ph-magnifying-glass-fill:before {
   content: "\e30c";
 }
-.an-fill.an-magnifying-glass-minus:before {
+.ph-magnifying-glass-minus-fill:before {
   content: "\e30e";
 }
-.an-fill.an-magnifying-glass-plus:before {
+.ph-magnifying-glass-plus-fill:before {
   content: "\e310";
 }
-.an-fill.an-mailbox:before {
+.ph-mailbox-fill:before {
   content: "\ec1e";
 }
-.an-fill.an-map-pin:before {
+.ph-map-pin-fill:before {
   content: "\e316";
 }
-.an-fill.an-map-pin-area:before {
+.ph-map-pin-area-fill:before {
   content: "\ee3a";
 }
-.an-fill.an-map-pin-line:before {
+.ph-map-pin-line-fill:before {
   content: "\e318";
 }
-.an-fill.an-map-pin-plus:before {
+.ph-map-pin-plus-fill:before {
   content: "\e314";
 }
-.an-fill.an-map-pin-simple:before {
+.ph-map-pin-simple-fill:before {
   content: "\ee3e";
 }
-.an-fill.an-map-pin-simple-area:before {
+.ph-map-pin-simple-area-fill:before {
   content: "\ee3c";
 }
-.an-fill.an-map-pin-simple-line:before {
+.ph-map-pin-simple-line-fill:before {
   content: "\ee38";
 }
-.an-fill.an-map-trifold:before {
+.ph-map-trifold-fill:before {
   content: "\e31a";
 }
-.an-fill.an-markdown-logo:before {
+.ph-markdown-logo-fill:before {
   content: "\e508";
 }
-.an-fill.an-marker-circle:before {
+.ph-marker-circle-fill:before {
   content: "\e640";
 }
-.an-fill.an-martini:before {
+.ph-martini-fill:before {
   content: "\e31c";
 }
-.an-fill.an-mask-happy:before {
+.ph-mask-happy-fill:before {
   content: "\e9f4";
 }
-.an-fill.an-mask-sad:before {
+.ph-mask-sad-fill:before {
   content: "\eb9e";
 }
-.an-fill.an-mastodon-logo:before {
+.ph-mastodon-logo-fill:before {
   content: "\ed68";
 }
-.an-fill.an-math-operations:before {
+.ph-math-operations-fill:before {
   content: "\e31e";
 }
-.an-fill.an-matrix-logo:before {
+.ph-matrix-logo-fill:before {
   content: "\ed64";
 }
-.an-fill.an-medal:before {
+.ph-medal-fill:before {
   content: "\e320";
 }
-.an-fill.an-medal-military:before {
+.ph-medal-military-fill:before {
   content: "\ecfc";
 }
-.an-fill.an-medium-logo:before {
+.ph-medium-logo-fill:before {
   content: "\e322";
 }
-.an-fill.an-megaphone:before {
+.ph-megaphone-fill:before {
   content: "\e324";
 }
-.an-fill.an-megaphone-simple:before {
+.ph-megaphone-simple-fill:before {
   content: "\e642";
 }
-.an-fill.an-member-of:before {
+.ph-member-of-fill:before {
   content: "\edc2";
 }
-.an-fill.an-memory:before {
+.ph-memory-fill:before {
   content: "\e9c4";
 }
-.an-fill.an-messenger-logo:before {
+.ph-messenger-logo-fill:before {
   content: "\e6d8";
 }
-.an-fill.an-meta-logo:before {
+.ph-meta-logo-fill:before {
   content: "\ed02";
 }
-.an-fill.an-meteor:before {
+.ph-meteor-fill:before {
   content: "\e9ba";
 }
-.an-fill.an-metronome:before {
+.ph-metronome-fill:before {
   content: "\ec8e";
 }
-.an-fill.an-microphone:before {
+.ph-microphone-fill:before {
   content: "\e326";
 }
-.an-fill.an-microphone-slash:before {
+.ph-microphone-slash-fill:before {
   content: "\e328";
 }
-.an-fill.an-microphone-stage:before {
+.ph-microphone-stage-fill:before {
   content: "\e75c";
 }
-.an-fill.an-microscope:before {
+.ph-microscope-fill:before {
   content: "\ec7a";
 }
-.an-fill.an-microsoft-excel-logo:before {
+.ph-microsoft-excel-logo-fill:before {
   content: "\eb6c";
 }
-.an-fill.an-microsoft-outlook-logo:before {
+.ph-microsoft-outlook-logo-fill:before {
   content: "\eb70";
 }
-.an-fill.an-microsoft-powerpoint-logo:before {
+.ph-microsoft-powerpoint-logo-fill:before {
   content: "\eace";
 }
-.an-fill.an-microsoft-teams-logo:before {
+.ph-microsoft-teams-logo-fill:before {
   content: "\eb66";
 }
-.an-fill.an-microsoft-word-logo:before {
+.ph-microsoft-word-logo-fill:before {
   content: "\eb6a";
 }
-.an-fill.an-minus:before {
+.ph-minus-fill:before {
   content: "\e32a";
 }
-.an-fill.an-minus-circle:before {
+.ph-minus-circle-fill:before {
   content: "\e32c";
 }
-.an-fill.an-minus-square:before {
+.ph-minus-square-fill:before {
   content: "\ed4c";
 }
-.an-fill.an-money:before {
+.ph-money-fill:before {
   content: "\e588";
 }
-.an-fill.an-money-wavy:before {
+.ph-money-wavy-fill:before {
   content: "\ee68";
 }
-.an-fill.an-monitor:before {
+.ph-monitor-fill:before {
   content: "\e32e";
 }
-.an-fill.an-monitor-arrow-up:before {
+.ph-monitor-arrow-up-fill:before {
   content: "\e58a";
 }
-.an-fill.an-monitor-play:before {
+.ph-monitor-play-fill:before {
   content: "\e58c";
 }
-.an-fill.an-moon:before {
+.ph-moon-fill:before {
   content: "\e330";
 }
-.an-fill.an-moon-stars:before {
+.ph-moon-stars-fill:before {
   content: "\e58e";
 }
-.an-fill.an-moped:before {
+.ph-moped-fill:before {
   content: "\e824";
 }
-.an-fill.an-moped-front:before {
+.ph-moped-front-fill:before {
   content: "\e822";
 }
-.an-fill.an-mosque:before {
+.ph-mosque-fill:before {
   content: "\ecee";
 }
-.an-fill.an-motorcycle:before {
+.ph-motorcycle-fill:before {
   content: "\e80a";
 }
-.an-fill.an-mountains:before {
+.ph-mountains-fill:before {
   content: "\e7ae";
 }
-.an-fill.an-mouse:before {
+.ph-mouse-fill:before {
   content: "\e33a";
 }
-.an-fill.an-mouse-left-click:before {
+.ph-mouse-left-click-fill:before {
   content: "\e334";
 }
-.an-fill.an-mouse-middle-click:before {
+.ph-mouse-middle-click-fill:before {
   content: "\e338";
 }
-.an-fill.an-mouse-right-click:before {
+.ph-mouse-right-click-fill:before {
   content: "\e336";
 }
-.an-fill.an-mouse-scroll:before {
+.ph-mouse-scroll-fill:before {
   content: "\e332";
 }
-.an-fill.an-mouse-simple:before {
+.ph-mouse-simple-fill:before {
   content: "\e644";
 }
-.an-fill.an-music-note:before {
+.ph-music-note-fill:before {
   content: "\e33c";
 }
-.an-fill.an-music-note-simple:before {
+.ph-music-note-simple-fill:before {
   content: "\e33e";
 }
-.an-fill.an-music-notes:before {
+.ph-music-notes-fill:before {
   content: "\e340";
 }
-.an-fill.an-music-notes-minus:before {
+.ph-music-notes-minus-fill:before {
   content: "\ee0c";
 }
-.an-fill.an-music-notes-plus:before {
+.ph-music-notes-plus-fill:before {
   content: "\eb7c";
 }
-.an-fill.an-music-notes-simple:before {
+.ph-music-notes-simple-fill:before {
   content: "\e342";
 }
-.an-fill.an-navigation-arrow:before {
+.ph-navigation-arrow-fill:before {
   content: "\eade";
 }
-.an-fill.an-needle:before {
+.ph-needle-fill:before {
   content: "\e82e";
 }
-.an-fill.an-network:before {
+.ph-network-fill:before {
   content: "\edde";
 }
-.an-fill.an-network-slash:before {
+.ph-network-slash-fill:before {
   content: "\eddc";
 }
-.an-fill.an-network-x:before {
+.ph-network-x-fill:before {
   content: "\edda";
 }
-.an-fill.an-newspaper:before {
+.ph-newspaper-fill:before {
   content: "\e344";
 }
-.an-fill.an-newspaper-clipping:before {
+.ph-newspaper-clipping-fill:before {
   content: "\e346";
 }
-.an-fill.an-not-equals:before {
+.ph-not-equals-fill:before {
   content: "\eda6";
 }
-.an-fill.an-not-member-of:before {
+.ph-not-member-of-fill:before {
   content: "\edae";
 }
-.an-fill.an-not-subset-of:before {
+.ph-not-subset-of-fill:before {
   content: "\edb0";
 }
-.an-fill.an-not-superset-of:before {
+.ph-not-superset-of-fill:before {
   content: "\edb2";
 }
-.an-fill.an-notches:before {
+.ph-notches-fill:before {
   content: "\ed3a";
 }
-.an-fill.an-note:before {
+.ph-note-fill:before {
   content: "\e348";
 }
-.an-fill.an-note-blank:before {
+.ph-note-blank-fill:before {
   content: "\e34a";
 }
-.an-fill.an-note-pencil:before {
+.ph-note-pencil-fill:before {
   content: "\e34c";
 }
-.an-fill.an-notebook:before {
+.ph-notebook-fill:before {
   content: "\e34e";
 }
-.an-fill.an-notepad:before {
+.ph-notepad-fill:before {
   content: "\e63e";
 }
-.an-fill.an-notification:before {
+.ph-notification-fill:before {
   content: "\e6fa";
 }
-.an-fill.an-notion-logo:before {
+.ph-notion-logo-fill:before {
   content: "\e9a0";
 }
-.an-fill.an-nuclear-plant:before {
+.ph-nuclear-plant-fill:before {
   content: "\ed7c";
 }
-.an-fill.an-number-circle-eight:before {
+.ph-number-circle-eight-fill:before {
   content: "\e352";
 }
-.an-fill.an-number-circle-five:before {
+.ph-number-circle-five-fill:before {
   content: "\e358";
 }
-.an-fill.an-number-circle-four:before {
+.ph-number-circle-four-fill:before {
   content: "\e35e";
 }
-.an-fill.an-number-circle-nine:before {
+.ph-number-circle-nine-fill:before {
   content: "\e364";
 }
-.an-fill.an-number-circle-one:before {
+.ph-number-circle-one-fill:before {
   content: "\e36a";
 }
-.an-fill.an-number-circle-seven:before {
+.ph-number-circle-seven-fill:before {
   content: "\e370";
 }
-.an-fill.an-number-circle-six:before {
+.ph-number-circle-six-fill:before {
   content: "\e376";
 }
-.an-fill.an-number-circle-three:before {
+.ph-number-circle-three-fill:before {
   content: "\e37c";
 }
-.an-fill.an-number-circle-two:before {
+.ph-number-circle-two-fill:before {
   content: "\e382";
 }
-.an-fill.an-number-circle-zero:before {
+.ph-number-circle-zero-fill:before {
   content: "\e388";
 }
-.an-fill.an-number-eight:before {
+.ph-number-eight-fill:before {
   content: "\e350";
 }
-.an-fill.an-number-five:before {
+.ph-number-five-fill:before {
   content: "\e356";
 }
-.an-fill.an-number-four:before {
+.ph-number-four-fill:before {
   content: "\e35c";
 }
-.an-fill.an-number-nine:before {
+.ph-number-nine-fill:before {
   content: "\e362";
 }
-.an-fill.an-number-one:before {
+.ph-number-one-fill:before {
   content: "\e368";
 }
-.an-fill.an-number-seven:before {
+.ph-number-seven-fill:before {
   content: "\e36e";
 }
-.an-fill.an-number-six:before {
+.ph-number-six-fill:before {
   content: "\e374";
 }
-.an-fill.an-number-square-eight:before {
+.ph-number-square-eight-fill:before {
   content: "\e354";
 }
-.an-fill.an-number-square-five:before {
+.ph-number-square-five-fill:before {
   content: "\e35a";
 }
-.an-fill.an-number-square-four:before {
+.ph-number-square-four-fill:before {
   content: "\e360";
 }
-.an-fill.an-number-square-nine:before {
+.ph-number-square-nine-fill:before {
   content: "\e366";
 }
-.an-fill.an-number-square-one:before {
+.ph-number-square-one-fill:before {
   content: "\e36c";
 }
-.an-fill.an-number-square-seven:before {
+.ph-number-square-seven-fill:before {
   content: "\e372";
 }
-.an-fill.an-number-square-six:before {
+.ph-number-square-six-fill:before {
   content: "\e378";
 }
-.an-fill.an-number-square-three:before {
+.ph-number-square-three-fill:before {
   content: "\e37e";
 }
-.an-fill.an-number-square-two:before {
+.ph-number-square-two-fill:before {
   content: "\e384";
 }
-.an-fill.an-number-square-zero:before {
+.ph-number-square-zero-fill:before {
   content: "\e38a";
 }
-.an-fill.an-number-three:before {
+.ph-number-three-fill:before {
   content: "\e37a";
 }
-.an-fill.an-number-two:before {
+.ph-number-two-fill:before {
   content: "\e380";
 }
-.an-fill.an-number-zero:before {
+.ph-number-zero-fill:before {
   content: "\e386";
 }
-.an-fill.an-numpad:before {
+.ph-numpad-fill:before {
   content: "\e3c8";
 }
-.an-fill.an-nut:before {
+.ph-nut-fill:before {
   content: "\e38c";
 }
-.an-fill.an-ny-times-logo:before {
+.ph-ny-times-logo-fill:before {
   content: "\e646";
 }
-.an-fill.an-octagon:before {
+.ph-octagon-fill:before {
   content: "\e38e";
 }
-.an-fill.an-office-chair:before {
+.ph-office-chair-fill:before {
   content: "\ea46";
 }
-.an-fill.an-onigiri:before {
+.ph-onigiri-fill:before {
   content: "\ee2c";
 }
-.an-fill.an-open-ai-logo:before {
+.ph-open-ai-logo-fill:before {
   content: "\e7d2";
 }
-.an-fill.an-option:before {
+.ph-option-fill:before {
   content: "\e8a8";
 }
-.an-fill.an-orange:before {
+.ph-orange-fill:before {
   content: "\ee40";
 }
-.an-fill.an-orange-slice:before {
+.ph-orange-slice-fill:before {
   content: "\ed36";
 }
-.an-fill.an-oven:before {
+.ph-oven-fill:before {
   content: "\ed8c";
 }
-.an-fill.an-package:before {
+.ph-package-fill:before {
   content: "\e390";
 }
-.an-fill.an-paint-brush:before {
+.ph-paint-brush-fill:before {
   content: "\e6f0";
 }
-.an-fill.an-paint-brush-broad:before {
+.ph-paint-brush-broad-fill:before {
   content: "\e590";
 }
-.an-fill.an-paint-brush-household:before {
+.ph-paint-brush-household-fill:before {
   content: "\e6f2";
 }
-.an-fill.an-paint-bucket:before {
+.ph-paint-bucket-fill:before {
   content: "\e392";
 }
-.an-fill.an-paint-roller:before {
+.ph-paint-roller-fill:before {
   content: "\e6f4";
 }
-.an-fill.an-palette:before {
+.ph-palette-fill:before {
   content: "\e6c8";
 }
-.an-fill.an-panorama:before {
+.ph-panorama-fill:before {
   content: "\eaa2";
 }
-.an-fill.an-pants:before {
+.ph-pants-fill:before {
   content: "\ec88";
 }
-.an-fill.an-paper-plane:before {
+.ph-paper-plane-fill:before {
   content: "\e394";
 }
-.an-fill.an-paper-plane-right:before {
+.ph-paper-plane-right-fill:before {
   content: "\e396";
 }
-.an-fill.an-paper-plane-tilt:before {
+.ph-paper-plane-tilt-fill:before {
   content: "\e398";
 }
-.an-fill.an-paperclip:before {
+.ph-paperclip-fill:before {
   content: "\e39a";
 }
-.an-fill.an-paperclip-horizontal:before {
+.ph-paperclip-horizontal-fill:before {
   content: "\e592";
 }
-.an-fill.an-parachute:before {
+.ph-parachute-fill:before {
   content: "\ea7c";
 }
-.an-fill.an-paragraph:before {
+.ph-paragraph-fill:before {
   content: "\e960";
 }
-.an-fill.an-parallelogram:before {
+.ph-parallelogram-fill:before {
   content: "\ecc6";
 }
-.an-fill.an-park:before {
+.ph-park-fill:before {
   content: "\ecb2";
 }
-.an-fill.an-password:before {
+.ph-password-fill:before {
   content: "\e752";
 }
-.an-fill.an-path:before {
+.ph-path-fill:before {
   content: "\e39c";
 }
-.an-fill.an-patreon-logo:before {
+.ph-patreon-logo-fill:before {
   content: "\e98a";
 }
-.an-fill.an-pause:before {
+.ph-pause-fill:before {
   content: "\e39e";
 }
-.an-fill.an-pause-circle:before {
+.ph-pause-circle-fill:before {
   content: "\e3a0";
 }
-.an-fill.an-paw-print:before {
+.ph-paw-print-fill:before {
   content: "\e648";
 }
-.an-fill.an-paypal-logo:before {
+.ph-paypal-logo-fill:before {
   content: "\e98c";
 }
-.an-fill.an-peace:before {
+.ph-peace-fill:before {
   content: "\e3a2";
 }
-.an-fill.an-pen:before {
+.ph-pen-fill:before {
   content: "\e3aa";
 }
-.an-fill.an-pen-nib:before {
+.ph-pen-nib-fill:before {
   content: "\e3ac";
 }
-.an-fill.an-pen-nib-straight:before {
+.ph-pen-nib-straight-fill:before {
   content: "\e64a";
 }
-.an-fill.an-pencil:before {
+.ph-pencil-fill:before {
   content: "\e3ae";
 }
-.an-fill.an-pencil-circle:before {
+.ph-pencil-circle-fill:before {
   content: "\e3b0";
 }
-.an-fill.an-pencil-line:before {
+.ph-pencil-line-fill:before {
   content: "\e3b2";
 }
-.an-fill.an-pencil-ruler:before {
+.ph-pencil-ruler-fill:before {
   content: "\e906";
 }
-.an-fill.an-pencil-simple:before {
+.ph-pencil-simple-fill:before {
   content: "\e3b4";
 }
-.an-fill.an-pencil-simple-line:before {
+.ph-pencil-simple-line-fill:before {
   content: "\ebc6";
 }
-.an-fill.an-pencil-simple-slash:before {
+.ph-pencil-simple-slash-fill:before {
   content: "\ecf6";
 }
-.an-fill.an-pencil-slash:before {
+.ph-pencil-slash-fill:before {
   content: "\ecf8";
 }
-.an-fill.an-pentagon:before {
+.ph-pentagon-fill:before {
   content: "\ec7e";
 }
-.an-fill.an-pentagram:before {
+.ph-pentagram-fill:before {
   content: "\ec5c";
 }
-.an-fill.an-pepper:before {
+.ph-pepper-fill:before {
   content: "\e94a";
 }
-.an-fill.an-percent:before {
+.ph-percent-fill:before {
   content: "\e3b6";
 }
-.an-fill.an-person:before {
+.ph-person-fill:before {
   content: "\e3a8";
 }
-.an-fill.an-person-arms-spread:before {
+.ph-person-arms-spread-fill:before {
   content: "\ecfe";
 }
-.an-fill.an-person-simple:before {
+.ph-person-simple-fill:before {
   content: "\e72e";
 }
-.an-fill.an-person-simple-bike:before {
+.ph-person-simple-bike-fill:before {
   content: "\e734";
 }
-.an-fill.an-person-simple-circle:before {
+.ph-person-simple-circle-fill:before {
   content: "\ee58";
 }
-.an-fill.an-person-simple-hike:before {
+.ph-person-simple-hike-fill:before {
   content: "\ed54";
 }
-.an-fill.an-person-simple-run:before {
+.ph-person-simple-run-fill:before {
   content: "\e730";
 }
-.an-fill.an-person-simple-ski:before {
+.ph-person-simple-ski-fill:before {
   content: "\e71c";
 }
-.an-fill.an-person-simple-snowboard:before {
+.ph-person-simple-snowboard-fill:before {
   content: "\e71e";
 }
-.an-fill.an-person-simple-swim:before {
+.ph-person-simple-swim-fill:before {
   content: "\e736";
 }
-.an-fill.an-person-simple-tai-chi:before {
+.ph-person-simple-tai-chi-fill:before {
   content: "\ed5c";
 }
-.an-fill.an-person-simple-throw:before {
+.ph-person-simple-throw-fill:before {
   content: "\e732";
 }
-.an-fill.an-person-simple-walk:before {
+.ph-person-simple-walk-fill:before {
   content: "\e73a";
 }
-.an-fill.an-perspective:before {
+.ph-perspective-fill:before {
   content: "\ebe6";
 }
-.an-fill.an-phone:before {
+.ph-phone-fill:before {
   content: "\e3b8";
 }
-.an-fill.an-phone-call:before {
+.ph-phone-call-fill:before {
   content: "\e3ba";
 }
-.an-fill.an-phone-disconnect:before {
+.ph-phone-disconnect-fill:before {
   content: "\e3bc";
 }
-.an-fill.an-phone-incoming:before {
+.ph-phone-incoming-fill:before {
   content: "\e3be";
 }
-.an-fill.an-phone-list:before {
+.ph-phone-list-fill:before {
   content: "\e3cc";
 }
-.an-fill.an-phone-outgoing:before {
+.ph-phone-outgoing-fill:before {
   content: "\e3c0";
 }
-.an-fill.an-phone-pause:before {
+.ph-phone-pause-fill:before {
   content: "\e3ca";
 }
-.an-fill.an-phone-plus:before {
+.ph-phone-plus-fill:before {
   content: "\ec56";
 }
-.an-fill.an-phone-slash:before {
+.ph-phone-slash-fill:before {
   content: "\e3c2";
 }
-.an-fill.an-phone-transfer:before {
+.ph-phone-transfer-fill:before {
   content: "\e3c6";
 }
-.an-fill.an-phone-x:before {
+.ph-phone-x-fill:before {
   content: "\e3c4";
 }
-.an-fill.an-phosphor-logo:before {
+.ph-phosphor-logo-fill:before {
   content: "\e3ce";
 }
-.an-fill.an-pi:before {
+.ph-pi-fill:before {
   content: "\ec80";
 }
-.an-fill.an-piano-keys:before {
+.ph-piano-keys-fill:before {
   content: "\e9c8";
 }
-.an-fill.an-picnic-table:before {
+.ph-picnic-table-fill:before {
   content: "\ee26";
 }
-.an-fill.an-picture-in-picture:before {
+.ph-picture-in-picture-fill:before {
   content: "\e64c";
 }
-.an-fill.an-piggy-bank:before {
+.ph-piggy-bank-fill:before {
   content: "\ea04";
 }
-.an-fill.an-pill:before {
+.ph-pill-fill:before {
   content: "\e700";
 }
-.an-fill.an-ping-pong:before {
+.ph-ping-pong-fill:before {
   content: "\ea42";
 }
-.an-fill.an-pint-glass:before {
+.ph-pint-glass-fill:before {
   content: "\edd0";
 }
-.an-fill.an-pinterest-logo:before {
+.ph-pinterest-logo-fill:before {
   content: "\e64e";
 }
-.an-fill.an-pinwheel:before {
+.ph-pinwheel-fill:before {
   content: "\eb9c";
 }
-.an-fill.an-pipe:before {
+.ph-pipe-fill:before {
   content: "\ed86";
 }
-.an-fill.an-pipe-wrench:before {
+.ph-pipe-wrench-fill:before {
   content: "\ed88";
 }
-.an-fill.an-pix-logo:before {
+.ph-pix-logo-fill:before {
   content: "\ecc2";
 }
-.an-fill.an-pizza:before {
+.ph-pizza-fill:before {
   content: "\e796";
 }
-.an-fill.an-placeholder:before {
+.ph-placeholder-fill:before {
   content: "\e650";
 }
-.an-fill.an-planet:before {
+.ph-planet-fill:before {
   content: "\e652";
 }
-.an-fill.an-plant:before {
+.ph-plant-fill:before {
   content: "\ebae";
 }
-.an-fill.an-play:before {
+.ph-play-fill:before {
   content: "\e3d0";
 }
-.an-fill.an-play-circle:before {
+.ph-play-circle-fill:before {
   content: "\e3d2";
 }
-.an-fill.an-play-pause:before {
+.ph-play-pause-fill:before {
   content: "\e8be";
 }
-.an-fill.an-playlist:before {
+.ph-playlist-fill:before {
   content: "\e6aa";
 }
-.an-fill.an-plug:before {
+.ph-plug-fill:before {
   content: "\e946";
 }
-.an-fill.an-plug-charging:before {
+.ph-plug-charging-fill:before {
   content: "\eb5c";
 }
-.an-fill.an-plugs:before {
+.ph-plugs-fill:before {
   content: "\eb56";
 }
-.an-fill.an-plugs-connected:before {
+.ph-plugs-connected-fill:before {
   content: "\eb5a";
 }
-.an-fill.an-plus:before {
+.ph-plus-fill:before {
   content: "\e3d4";
 }
-.an-fill.an-plus-circle:before {
+.ph-plus-circle-fill:before {
   content: "\e3d6";
 }
-.an-fill.an-plus-minus:before {
+.ph-plus-minus-fill:before {
   content: "\e3d8";
 }
-.an-fill.an-plus-square:before {
+.ph-plus-square-fill:before {
   content: "\ed4a";
 }
-.an-fill.an-poker-chip:before {
+.ph-poker-chip-fill:before {
   content: "\e594";
 }
-.an-fill.an-police-car:before {
+.ph-police-car-fill:before {
   content: "\ec4a";
 }
-.an-fill.an-polygon:before {
+.ph-polygon-fill:before {
   content: "\e6d0";
 }
-.an-fill.an-popcorn:before {
+.ph-popcorn-fill:before {
   content: "\eb4e";
 }
-.an-fill.an-popsicle:before {
+.ph-popsicle-fill:before {
   content: "\ebbe";
 }
-.an-fill.an-potted-plant:before {
+.ph-potted-plant-fill:before {
   content: "\ec22";
 }
-.an-fill.an-power:before {
+.ph-power-fill:before {
   content: "\e3da";
 }
-.an-fill.an-prescription:before {
+.ph-prescription-fill:before {
   content: "\e7a2";
 }
-.an-fill.an-presentation:before {
+.ph-presentation-fill:before {
   content: "\e654";
 }
-.an-fill.an-presentation-chart:before {
+.ph-presentation-chart-fill:before {
   content: "\e656";
 }
-.an-fill.an-printer:before {
+.ph-printer-fill:before {
   content: "\e3dc";
 }
-.an-fill.an-prohibit:before {
+.ph-prohibit-fill:before {
   content: "\e3de";
 }
-.an-fill.an-prohibit-inset:before {
+.ph-prohibit-inset-fill:before {
   content: "\e3e0";
 }
-.an-fill.an-projector-screen:before {
+.ph-projector-screen-fill:before {
   content: "\e658";
 }
-.an-fill.an-projector-screen-chart:before {
+.ph-projector-screen-chart-fill:before {
   content: "\e65a";
 }
-.an-fill.an-pulse:before {
+.ph-pulse-fill:before {
   content: "\e000";
 }
-.an-fill.an-activity:before {
+.ph-activity-fill:before {
   content: "\e000";
 }
-.an-fill.an-push-pin:before {
+.ph-push-pin-fill:before {
   content: "\e3e2";
 }
-.an-fill.an-push-pin-simple:before {
+.ph-push-pin-simple-fill:before {
   content: "\e65c";
 }
-.an-fill.an-push-pin-simple-slash:before {
+.ph-push-pin-simple-slash-fill:before {
   content: "\e65e";
 }
-.an-fill.an-push-pin-slash:before {
+.ph-push-pin-slash-fill:before {
   content: "\e3e4";
 }
-.an-fill.an-puzzle-piece:before {
+.ph-puzzle-piece-fill:before {
   content: "\e596";
 }
-.an-fill.an-qr-code:before {
+.ph-qr-code-fill:before {
   content: "\e3e6";
 }
-.an-fill.an-question:before {
+.ph-question-fill:before {
   content: "\e3e8";
 }
-.an-fill.an-question-mark:before {
+.ph-question-mark-fill:before {
   content: "\e3e9";
 }
-.an-fill.an-queue:before {
+.ph-queue-fill:before {
   content: "\e6ac";
 }
-.an-fill.an-quotes:before {
+.ph-quotes-fill:before {
   content: "\e660";
 }
-.an-fill.an-rabbit:before {
+.ph-rabbit-fill:before {
   content: "\eac2";
 }
-.an-fill.an-racquet:before {
+.ph-racquet-fill:before {
   content: "\ee02";
 }
-.an-fill.an-radical:before {
+.ph-radical-fill:before {
   content: "\e3ea";
 }
-.an-fill.an-radio:before {
+.ph-radio-fill:before {
   content: "\e77e";
 }
-.an-fill.an-radio-button:before {
+.ph-radio-button-fill:before {
   content: "\eb08";
 }
-.an-fill.an-radioactive:before {
+.ph-radioactive-fill:before {
   content: "\e9dc";
 }
-.an-fill.an-rainbow:before {
+.ph-rainbow-fill:before {
   content: "\e598";
 }
-.an-fill.an-rainbow-cloud:before {
+.ph-rainbow-cloud-fill:before {
   content: "\e59a";
 }
-.an-fill.an-ranking:before {
+.ph-ranking-fill:before {
   content: "\ed62";
 }
-.an-fill.an-read-cv-logo:before {
+.ph-read-cv-logo-fill:before {
   content: "\ed0c";
 }
-.an-fill.an-receipt:before {
+.ph-receipt-fill:before {
   content: "\e3ec";
 }
-.an-fill.an-receipt-x:before {
+.ph-receipt-x-fill:before {
   content: "\ed40";
 }
-.an-fill.an-record:before {
+.ph-record-fill:before {
   content: "\e3ee";
 }
-.an-fill.an-rectangle:before {
+.ph-rectangle-fill:before {
   content: "\e3f0";
 }
-.an-fill.an-rectangle-dashed:before {
+.ph-rectangle-dashed-fill:before {
   content: "\e3f2";
 }
-.an-fill.an-recycle:before {
+.ph-recycle-fill:before {
   content: "\e75a";
 }
-.an-fill.an-reddit-logo:before {
+.ph-reddit-logo-fill:before {
   content: "\e59c";
 }
-.an-fill.an-repeat:before {
+.ph-repeat-fill:before {
   content: "\e3f6";
 }
-.an-fill.an-repeat-once:before {
+.ph-repeat-once-fill:before {
   content: "\e3f8";
 }
-.an-fill.an-replit-logo:before {
+.ph-replit-logo-fill:before {
   content: "\eb8a";
 }
-.an-fill.an-resize:before {
+.ph-resize-fill:before {
   content: "\ed6e";
 }
-.an-fill.an-rewind:before {
+.ph-rewind-fill:before {
   content: "\e6a8";
 }
-.an-fill.an-rewind-circle:before {
+.ph-rewind-circle-fill:before {
   content: "\e3fa";
 }
-.an-fill.an-road-horizon:before {
+.ph-road-horizon-fill:before {
   content: "\e838";
 }
-.an-fill.an-robot:before {
+.ph-robot-fill:before {
   content: "\e762";
 }
-.an-fill.an-rocket:before {
+.ph-rocket-fill:before {
   content: "\e3fc";
 }
-.an-fill.an-rocket-launch:before {
+.ph-rocket-launch-fill:before {
   content: "\e3fe";
 }
-.an-fill.an-rows:before {
+.ph-rows-fill:before {
   content: "\e5a2";
 }
-.an-fill.an-rows-plus-bottom:before {
+.ph-rows-plus-bottom-fill:before {
   content: "\e59e";
 }
-.an-fill.an-rows-plus-top:before {
+.ph-rows-plus-top-fill:before {
   content: "\e5a0";
 }
-.an-fill.an-rss:before {
+.ph-rss-fill:before {
   content: "\e400";
 }
-.an-fill.an-rss-simple:before {
+.ph-rss-simple-fill:before {
   content: "\e402";
 }
-.an-fill.an-rug:before {
+.ph-rug-fill:before {
   content: "\ea1a";
 }
-.an-fill.an-ruler:before {
+.ph-ruler-fill:before {
   content: "\e6b8";
 }
-.an-fill.an-sailboat:before {
+.ph-sailboat-fill:before {
   content: "\e78a";
 }
-.an-fill.an-scales:before {
+.ph-scales-fill:before {
   content: "\e750";
 }
-.an-fill.an-scan:before {
+.ph-scan-fill:before {
   content: "\ebb6";
 }
-.an-fill.an-scan-smiley:before {
+.ph-scan-smiley-fill:before {
   content: "\ebb4";
 }
-.an-fill.an-scissors:before {
+.ph-scissors-fill:before {
   content: "\eae0";
 }
-.an-fill.an-scooter:before {
+.ph-scooter-fill:before {
   content: "\e820";
 }
-.an-fill.an-screencast:before {
+.ph-screencast-fill:before {
   content: "\e404";
 }
-.an-fill.an-screwdriver:before {
+.ph-screwdriver-fill:before {
   content: "\e86e";
 }
-.an-fill.an-scribble:before {
+.ph-scribble-fill:before {
   content: "\e806";
 }
-.an-fill.an-scribble-loop:before {
+.ph-scribble-loop-fill:before {
   content: "\e662";
 }
-.an-fill.an-scroll:before {
+.ph-scroll-fill:before {
   content: "\eb7a";
 }
-.an-fill.an-seal:before {
+.ph-seal-fill:before {
   content: "\e604";
 }
-.an-fill.an-circle-wavy:before {
+.ph-circle-wavy-fill:before {
   content: "\e604";
 }
-.an-fill.an-seal-check:before {
+.ph-seal-check-fill:before {
   content: "\e606";
 }
-.an-fill.an-circle-wavy-check:before {
+.ph-circle-wavy-check-fill:before {
   content: "\e606";
 }
-.an-fill.an-seal-percent:before {
+.ph-seal-percent-fill:before {
   content: "\e60a";
 }
-.an-fill.an-seal-question:before {
+.ph-seal-question-fill:before {
   content: "\e608";
 }
-.an-fill.an-circle-wavy-question:before {
+.ph-circle-wavy-question-fill:before {
   content: "\e608";
 }
-.an-fill.an-seal-warning:before {
+.ph-seal-warning-fill:before {
   content: "\e60c";
 }
-.an-fill.an-circle-wavy-warning:before {
+.ph-circle-wavy-warning-fill:before {
   content: "\e60c";
 }
-.an-fill.an-seat:before {
+.ph-seat-fill:before {
   content: "\eb8e";
 }
-.an-fill.an-seatbelt:before {
+.ph-seatbelt-fill:before {
   content: "\edfe";
 }
-.an-fill.an-security-camera:before {
+.ph-security-camera-fill:before {
   content: "\eca4";
 }
-.an-fill.an-selection:before {
+.ph-selection-fill:before {
   content: "\e69a";
 }
-.an-fill.an-selection-all:before {
+.ph-selection-all-fill:before {
   content: "\e746";
 }
-.an-fill.an-selection-background:before {
+.ph-selection-background-fill:before {
   content: "\eaf8";
 }
-.an-fill.an-selection-foreground:before {
+.ph-selection-foreground-fill:before {
   content: "\eaf6";
 }
-.an-fill.an-selection-inverse:before {
+.ph-selection-inverse-fill:before {
   content: "\e744";
 }
-.an-fill.an-selection-plus:before {
+.ph-selection-plus-fill:before {
   content: "\e69c";
 }
-.an-fill.an-selection-slash:before {
+.ph-selection-slash-fill:before {
   content: "\e69e";
 }
-.an-fill.an-shapes:before {
+.ph-shapes-fill:before {
   content: "\ec5e";
 }
-.an-fill.an-share:before {
+.ph-share-fill:before {
   content: "\e406";
 }
-.an-fill.an-share-fat:before {
+.ph-share-fat-fill:before {
   content: "\ed52";
 }
-.an-fill.an-share-network:before {
+.ph-share-network-fill:before {
   content: "\e408";
 }
-.an-fill.an-shield:before {
+.ph-shield-fill:before {
   content: "\e40a";
 }
-.an-fill.an-shield-check:before {
+.ph-shield-check-fill:before {
   content: "\e40c";
 }
-.an-fill.an-shield-checkered:before {
+.ph-shield-checkered-fill:before {
   content: "\e708";
 }
-.an-fill.an-shield-chevron:before {
+.ph-shield-chevron-fill:before {
   content: "\e40e";
 }
-.an-fill.an-shield-plus:before {
+.ph-shield-plus-fill:before {
   content: "\e706";
 }
-.an-fill.an-shield-slash:before {
+.ph-shield-slash-fill:before {
   content: "\e410";
 }
-.an-fill.an-shield-star:before {
+.ph-shield-star-fill:before {
   content: "\ec34";
 }
-.an-fill.an-shield-warning:before {
+.ph-shield-warning-fill:before {
   content: "\e412";
 }
-.an-fill.an-shipping-container:before {
+.ph-shipping-container-fill:before {
   content: "\e78c";
 }
-.an-fill.an-shirt-folded:before {
+.ph-shirt-folded-fill:before {
   content: "\ea92";
 }
-.an-fill.an-shooting-star:before {
+.ph-shooting-star-fill:before {
   content: "\ecfa";
 }
-.an-fill.an-shopping-bag:before {
+.ph-shopping-bag-fill:before {
   content: "\e416";
 }
-.an-fill.an-shopping-bag-open:before {
+.ph-shopping-bag-open-fill:before {
   content: "\e418";
 }
-.an-fill.an-shopping-cart:before {
+.ph-shopping-cart-fill:before {
   content: "\e41e";
 }
-.an-fill.an-shopping-cart-simple:before {
+.ph-shopping-cart-simple-fill:before {
   content: "\e420";
 }
-.an-fill.an-shovel:before {
+.ph-shovel-fill:before {
   content: "\e9e6";
 }
-.an-fill.an-shower:before {
+.ph-shower-fill:before {
   content: "\e776";
 }
-.an-fill.an-shrimp:before {
+.ph-shrimp-fill:before {
   content: "\eab4";
 }
-.an-fill.an-shuffle:before {
+.ph-shuffle-fill:before {
   content: "\e422";
 }
-.an-fill.an-shuffle-angular:before {
+.ph-shuffle-angular-fill:before {
   content: "\e424";
 }
-.an-fill.an-shuffle-simple:before {
+.ph-shuffle-simple-fill:before {
   content: "\e426";
 }
-.an-fill.an-sidebar:before {
+.ph-sidebar-fill:before {
   content: "\eab6";
 }
-.an-fill.an-sidebar-simple:before {
+.ph-sidebar-simple-fill:before {
   content: "\ec24";
 }
-.an-fill.an-sigma:before {
+.ph-sigma-fill:before {
   content: "\eab8";
 }
-.an-fill.an-sign-in:before {
+.ph-sign-in-fill:before {
   content: "\e428";
 }
-.an-fill.an-sign-out:before {
+.ph-sign-out-fill:before {
   content: "\e42a";
 }
-.an-fill.an-signature:before {
+.ph-signature-fill:before {
   content: "\ebac";
 }
-.an-fill.an-signpost:before {
+.ph-signpost-fill:before {
   content: "\e89c";
 }
-.an-fill.an-sim-card:before {
+.ph-sim-card-fill:before {
   content: "\e664";
 }
-.an-fill.an-siren:before {
+.ph-siren-fill:before {
   content: "\e9b8";
 }
-.an-fill.an-sketch-logo:before {
+.ph-sketch-logo-fill:before {
   content: "\e42c";
 }
-.an-fill.an-skip-back:before {
+.ph-skip-back-fill:before {
   content: "\e5a4";
 }
-.an-fill.an-skip-back-circle:before {
+.ph-skip-back-circle-fill:before {
   content: "\e42e";
 }
-.an-fill.an-skip-forward:before {
+.ph-skip-forward-fill:before {
   content: "\e5a6";
 }
-.an-fill.an-skip-forward-circle:before {
+.ph-skip-forward-circle-fill:before {
   content: "\e430";
 }
-.an-fill.an-skull:before {
+.ph-skull-fill:before {
   content: "\e916";
 }
-.an-fill.an-skype-logo:before {
+.ph-skype-logo-fill:before {
   content: "\e8dc";
 }
-.an-fill.an-slack-logo:before {
+.ph-slack-logo-fill:before {
   content: "\e5a8";
 }
-.an-fill.an-sliders:before {
+.ph-sliders-fill:before {
   content: "\e432";
 }
-.an-fill.an-sliders-horizontal:before {
+.ph-sliders-horizontal-fill:before {
   content: "\e434";
 }
-.an-fill.an-slideshow:before {
+.ph-slideshow-fill:before {
   content: "\ed32";
 }
-.an-fill.an-smiley:before {
+.ph-smiley-fill:before {
   content: "\e436";
 }
-.an-fill.an-smiley-angry:before {
+.ph-smiley-angry-fill:before {
   content: "\ec62";
 }
-.an-fill.an-smiley-blank:before {
+.ph-smiley-blank-fill:before {
   content: "\e438";
 }
-.an-fill.an-smiley-meh:before {
+.ph-smiley-meh-fill:before {
   content: "\e43a";
 }
-.an-fill.an-smiley-melting:before {
+.ph-smiley-melting-fill:before {
   content: "\ee56";
 }
-.an-fill.an-smiley-nervous:before {
+.ph-smiley-nervous-fill:before {
   content: "\e43c";
 }
-.an-fill.an-smiley-sad:before {
+.ph-smiley-sad-fill:before {
   content: "\e43e";
 }
-.an-fill.an-smiley-sticker:before {
+.ph-smiley-sticker-fill:before {
   content: "\e440";
 }
-.an-fill.an-smiley-wink:before {
+.ph-smiley-wink-fill:before {
   content: "\e666";
 }
-.an-fill.an-smiley-x-eyes:before {
+.ph-smiley-x-eyes-fill:before {
   content: "\e442";
 }
-.an-fill.an-snapchat-logo:before {
+.ph-snapchat-logo-fill:before {
   content: "\e668";
 }
-.an-fill.an-sneaker:before {
+.ph-sneaker-fill:before {
   content: "\e80c";
 }
-.an-fill.an-sneaker-move:before {
+.ph-sneaker-move-fill:before {
   content: "\ed60";
 }
-.an-fill.an-snowflake:before {
+.ph-snowflake-fill:before {
   content: "\e5aa";
 }
-.an-fill.an-soccer-ball:before {
+.ph-soccer-ball-fill:before {
   content: "\e716";
 }
-.an-fill.an-sock:before {
+.ph-sock-fill:before {
   content: "\ecce";
 }
-.an-fill.an-solar-panel:before {
+.ph-solar-panel-fill:before {
   content: "\ed7a";
 }
-.an-fill.an-solar-roof:before {
+.ph-solar-roof-fill:before {
   content: "\ed7b";
 }
-.an-fill.an-sort-ascending:before {
+.ph-sort-ascending-fill:before {
   content: "\e444";
 }
-.an-fill.an-sort-descending:before {
+.ph-sort-descending-fill:before {
   content: "\e446";
 }
-.an-fill.an-soundcloud-logo:before {
+.ph-soundcloud-logo-fill:before {
   content: "\e8de";
 }
-.an-fill.an-spade:before {
+.ph-spade-fill:before {
   content: "\e448";
 }
-.an-fill.an-sparkle:before {
+.ph-sparkle-fill:before {
   content: "\e6a2";
 }
-.an-fill.an-speaker-hifi:before {
+.ph-speaker-hifi-fill:before {
   content: "\ea08";
 }
-.an-fill.an-speaker-high:before {
+.ph-speaker-high-fill:before {
   content: "\e44a";
 }
-.an-fill.an-speaker-low:before {
+.ph-speaker-low-fill:before {
   content: "\e44c";
 }
-.an-fill.an-speaker-none:before {
+.ph-speaker-none-fill:before {
   content: "\e44e";
 }
-.an-fill.an-speaker-simple-high:before {
+.ph-speaker-simple-high-fill:before {
   content: "\e450";
 }
-.an-fill.an-speaker-simple-low:before {
+.ph-speaker-simple-low-fill:before {
   content: "\e452";
 }
-.an-fill.an-speaker-simple-none:before {
+.ph-speaker-simple-none-fill:before {
   content: "\e454";
 }
-.an-fill.an-speaker-simple-slash:before {
+.ph-speaker-simple-slash-fill:before {
   content: "\e456";
 }
-.an-fill.an-speaker-simple-x:before {
+.ph-speaker-simple-x-fill:before {
   content: "\e458";
 }
-.an-fill.an-speaker-slash:before {
+.ph-speaker-slash-fill:before {
   content: "\e45a";
 }
-.an-fill.an-speaker-x:before {
+.ph-speaker-x-fill:before {
   content: "\e45c";
 }
-.an-fill.an-speedometer:before {
+.ph-speedometer-fill:before {
   content: "\ee74";
 }
-.an-fill.an-sphere:before {
+.ph-sphere-fill:before {
   content: "\ee66";
 }
-.an-fill.an-spinner:before {
+.ph-spinner-fill:before {
   content: "\e66a";
 }
-.an-fill.an-spinner-ball:before {
+.ph-spinner-ball-fill:before {
   content: "\ee28";
 }
-.an-fill.an-spinner-gap:before {
+.ph-spinner-gap-fill:before {
   content: "\e66c";
 }
-.an-fill.an-spiral:before {
+.ph-spiral-fill:before {
   content: "\e9fa";
 }
-.an-fill.an-split-horizontal:before {
+.ph-split-horizontal-fill:before {
   content: "\e872";
 }
-.an-fill.an-split-vertical:before {
+.ph-split-vertical-fill:before {
   content: "\e876";
 }
-.an-fill.an-spotify-logo:before {
+.ph-spotify-logo-fill:before {
   content: "\e66e";
 }
-.an-fill.an-spray-bottle:before {
+.ph-spray-bottle-fill:before {
   content: "\e7e4";
 }
-.an-fill.an-square:before {
+.ph-square-fill:before {
   content: "\e45e";
 }
-.an-fill.an-square-half:before {
+.ph-square-half-fill:before {
   content: "\e462";
 }
-.an-fill.an-square-half-bottom:before {
+.ph-square-half-bottom-fill:before {
   content: "\eb16";
 }
-.an-fill.an-square-logo:before {
+.ph-square-logo-fill:before {
   content: "\e690";
 }
-.an-fill.an-square-split-horizontal:before {
+.ph-square-split-horizontal-fill:before {
   content: "\e870";
 }
-.an-fill.an-square-split-vertical:before {
+.ph-square-split-vertical-fill:before {
   content: "\e874";
 }
-.an-fill.an-squares-four:before {
+.ph-squares-four-fill:before {
   content: "\e464";
 }
-.an-fill.an-stack:before {
+.ph-stack-fill:before {
   content: "\e466";
 }
-.an-fill.an-stack-minus:before {
+.ph-stack-minus-fill:before {
   content: "\edf4";
 }
-.an-fill.an-stack-overflow-logo:before {
+.ph-stack-overflow-logo-fill:before {
   content: "\eb78";
 }
-.an-fill.an-stack-plus:before {
+.ph-stack-plus-fill:before {
   content: "\edf6";
 }
-.an-fill.an-stack-simple:before {
+.ph-stack-simple-fill:before {
   content: "\e468";
 }
-.an-fill.an-stairs:before {
+.ph-stairs-fill:before {
   content: "\e8ec";
 }
-.an-fill.an-stamp:before {
+.ph-stamp-fill:before {
   content: "\ea48";
 }
-.an-fill.an-standard-definition:before {
+.ph-standard-definition-fill:before {
   content: "\ea90";
 }
-.an-fill.an-star:before {
+.ph-star-fill:before {
   content: "\e46a";
 }
-.an-fill.an-star-and-crescent:before {
+.ph-star-and-crescent-fill:before {
   content: "\ecf4";
 }
-.an-fill.an-star-four:before {
+.ph-star-four-fill:before {
   content: "\e6a4";
 }
-.an-fill.an-star-half:before {
+.ph-star-half-fill:before {
   content: "\e70a";
 }
-.an-fill.an-star-of-david:before {
+.ph-star-of-david-fill:before {
   content: "\e89e";
 }
-.an-fill.an-steam-logo:before {
+.ph-steam-logo-fill:before {
   content: "\ead4";
 }
-.an-fill.an-steering-wheel:before {
+.ph-steering-wheel-fill:before {
   content: "\e9ac";
 }
-.an-fill.an-steps:before {
+.ph-steps-fill:before {
   content: "\ecbe";
 }
-.an-fill.an-stethoscope:before {
+.ph-stethoscope-fill:before {
   content: "\e7ea";
 }
-.an-fill.an-sticker:before {
+.ph-sticker-fill:before {
   content: "\e5ac";
 }
-.an-fill.an-stool:before {
+.ph-stool-fill:before {
   content: "\ea44";
 }
-.an-fill.an-stop:before {
+.ph-stop-fill:before {
   content: "\e46c";
 }
-.an-fill.an-stop-circle:before {
+.ph-stop-circle-fill:before {
   content: "\e46e";
 }
-.an-fill.an-storefront:before {
+.ph-storefront-fill:before {
   content: "\e470";
 }
-.an-fill.an-strategy:before {
+.ph-strategy-fill:before {
   content: "\ea3a";
 }
-.an-fill.an-stripe-logo:before {
+.ph-stripe-logo-fill:before {
   content: "\e698";
 }
-.an-fill.an-student:before {
+.ph-student-fill:before {
   content: "\e73e";
 }
-.an-fill.an-subset-of:before {
+.ph-subset-of-fill:before {
   content: "\edc0";
 }
-.an-fill.an-subset-proper-of:before {
+.ph-subset-proper-of-fill:before {
   content: "\edb6";
 }
-.an-fill.an-subtitles:before {
+.ph-subtitles-fill:before {
   content: "\e1a8";
 }
-.an-fill.an-subtitles-slash:before {
+.ph-subtitles-slash-fill:before {
   content: "\e1a6";
 }
-.an-fill.an-subtract:before {
+.ph-subtract-fill:before {
   content: "\ebd6";
 }
-.an-fill.an-subtract-square:before {
+.ph-subtract-square-fill:before {
   content: "\ebd4";
 }
-.an-fill.an-subway:before {
+.ph-subway-fill:before {
   content: "\e498";
 }
-.an-fill.an-suitcase:before {
+.ph-suitcase-fill:before {
   content: "\e5ae";
 }
-.an-fill.an-suitcase-rolling:before {
+.ph-suitcase-rolling-fill:before {
   content: "\e9b0";
 }
-.an-fill.an-suitcase-simple:before {
+.ph-suitcase-simple-fill:before {
   content: "\e5b0";
 }
-.an-fill.an-sun:before {
+.ph-sun-fill:before {
   content: "\e472";
 }
-.an-fill.an-sun-dim:before {
+.ph-sun-dim-fill:before {
   content: "\e474";
 }
-.an-fill.an-sun-horizon:before {
+.ph-sun-horizon-fill:before {
   content: "\e5b6";
 }
-.an-fill.an-sunglasses:before {
+.ph-sunglasses-fill:before {
   content: "\e816";
 }
-.an-fill.an-superset-of:before {
+.ph-superset-of-fill:before {
   content: "\edb8";
 }
-.an-fill.an-superset-proper-of:before {
+.ph-superset-proper-of-fill:before {
   content: "\edb4";
 }
-.an-fill.an-swap:before {
+.ph-swap-fill:before {
   content: "\e83c";
 }
-.an-fill.an-swatches:before {
+.ph-swatches-fill:before {
   content: "\e5b8";
 }
-.an-fill.an-swimming-pool:before {
+.ph-swimming-pool-fill:before {
   content: "\ecb6";
 }
-.an-fill.an-sword:before {
+.ph-sword-fill:before {
   content: "\e5ba";
 }
-.an-fill.an-synagogue:before {
+.ph-synagogue-fill:before {
   content: "\ecec";
 }
-.an-fill.an-syringe:before {
+.ph-syringe-fill:before {
   content: "\e968";
 }
-.an-fill.an-t-shirt:before {
+.ph-t-shirt-fill:before {
   content: "\e670";
 }
-.an-fill.an-table:before {
+.ph-table-fill:before {
   content: "\e476";
 }
-.an-fill.an-tabs:before {
+.ph-tabs-fill:before {
   content: "\e778";
 }
-.an-fill.an-tag:before {
+.ph-tag-fill:before {
   content: "\e478";
 }
-.an-fill.an-tag-chevron:before {
+.ph-tag-chevron-fill:before {
   content: "\e672";
 }
-.an-fill.an-tag-simple:before {
+.ph-tag-simple-fill:before {
   content: "\e47a";
 }
-.an-fill.an-target:before {
+.ph-target-fill:before {
   content: "\e47c";
 }
-.an-fill.an-taxi:before {
+.ph-taxi-fill:before {
   content: "\e902";
 }
-.an-fill.an-tea-bag:before {
+.ph-tea-bag-fill:before {
   content: "\e8e6";
 }
-.an-fill.an-telegram-logo:before {
+.ph-telegram-logo-fill:before {
   content: "\e5bc";
 }
-.an-fill.an-television:before {
+.ph-television-fill:before {
   content: "\e754";
 }
-.an-fill.an-television-simple:before {
+.ph-television-simple-fill:before {
   content: "\eae6";
 }
-.an-fill.an-tennis-ball:before {
+.ph-tennis-ball-fill:before {
   content: "\e720";
 }
-.an-fill.an-tent:before {
+.ph-tent-fill:before {
   content: "\e8ba";
 }
-.an-fill.an-terminal:before {
+.ph-terminal-fill:before {
   content: "\e47e";
 }
-.an-fill.an-terminal-window:before {
+.ph-terminal-window-fill:before {
   content: "\eae8";
 }
-.an-fill.an-test-tube:before {
+.ph-test-tube-fill:before {
   content: "\e7a0";
 }
-.an-fill.an-text-a-underline:before {
+.ph-text-a-underline-fill:before {
   content: "\ed34";
 }
-.an-fill.an-text-aa:before {
+.ph-text-aa-fill:before {
   content: "\e6ee";
 }
-.an-fill.an-text-align-center:before {
+.ph-text-align-center-fill:before {
   content: "\e480";
 }
-.an-fill.an-text-align-justify:before {
+.ph-text-align-justify-fill:before {
   content: "\e482";
 }
-.an-fill.an-text-align-left:before {
+.ph-text-align-left-fill:before {
   content: "\e484";
 }
-.an-fill.an-text-align-right:before {
+.ph-text-align-right-fill:before {
   content: "\e486";
 }
-.an-fill.an-text-b:before {
+.ph-text-b-fill:before {
   content: "\e5be";
 }
-.an-fill.an-text-bolder:before {
+.ph-text-bolder-fill:before {
   content: "\e5be";
 }
-.an-fill.an-text-columns:before {
+.ph-text-columns-fill:before {
   content: "\ec96";
 }
-.an-fill.an-text-h:before {
+.ph-text-h-fill:before {
   content: "\e6ba";
 }
-.an-fill.an-text-h-five:before {
+.ph-text-h-five-fill:before {
   content: "\e6c4";
 }
-.an-fill.an-text-h-four:before {
+.ph-text-h-four-fill:before {
   content: "\e6c2";
 }
-.an-fill.an-text-h-one:before {
+.ph-text-h-one-fill:before {
   content: "\e6bc";
 }
-.an-fill.an-text-h-six:before {
+.ph-text-h-six-fill:before {
   content: "\e6c6";
 }
-.an-fill.an-text-h-three:before {
+.ph-text-h-three-fill:before {
   content: "\e6c0";
 }
-.an-fill.an-text-h-two:before {
+.ph-text-h-two-fill:before {
   content: "\e6be";
 }
-.an-fill.an-text-indent:before {
+.ph-text-indent-fill:before {
   content: "\ea1e";
 }
-.an-fill.an-text-italic:before {
+.ph-text-italic-fill:before {
   content: "\e5c0";
 }
-.an-fill.an-text-outdent:before {
+.ph-text-outdent-fill:before {
   content: "\ea1c";
 }
-.an-fill.an-text-strikethrough:before {
+.ph-text-strikethrough-fill:before {
   content: "\e5c2";
 }
-.an-fill.an-text-subscript:before {
+.ph-text-subscript-fill:before {
   content: "\ec98";
 }
-.an-fill.an-text-superscript:before {
+.ph-text-superscript-fill:before {
   content: "\ec9a";
 }
-.an-fill.an-text-t:before {
+.ph-text-t-fill:before {
   content: "\e48a";
 }
-.an-fill.an-text-t-slash:before {
+.ph-text-t-slash-fill:before {
   content: "\e488";
 }
-.an-fill.an-text-underline:before {
+.ph-text-underline-fill:before {
   content: "\e5c4";
 }
-.an-fill.an-textbox:before {
+.ph-textbox-fill:before {
   content: "\eb0a";
 }
-.an-fill.an-thermometer:before {
+.ph-thermometer-fill:before {
   content: "\e5c6";
 }
-.an-fill.an-thermometer-cold:before {
+.ph-thermometer-cold-fill:before {
   content: "\e5c8";
 }
-.an-fill.an-thermometer-hot:before {
+.ph-thermometer-hot-fill:before {
   content: "\e5ca";
 }
-.an-fill.an-thermometer-simple:before {
+.ph-thermometer-simple-fill:before {
   content: "\e5cc";
 }
-.an-fill.an-threads-logo:before {
+.ph-threads-logo-fill:before {
   content: "\ed9e";
 }
-.an-fill.an-three-d:before {
+.ph-three-d-fill:before {
   content: "\ea5a";
 }
-.an-fill.an-thumbs-down:before {
+.ph-thumbs-down-fill:before {
   content: "\e48c";
 }
-.an-fill.an-thumbs-up:before {
+.ph-thumbs-up-fill:before {
   content: "\e48e";
 }
-.an-fill.an-ticket:before {
+.ph-ticket-fill:before {
   content: "\e490";
 }
-.an-fill.an-tidal-logo:before {
+.ph-tidal-logo-fill:before {
   content: "\ed1c";
 }
-.an-fill.an-tiktok-logo:before {
+.ph-tiktok-logo-fill:before {
   content: "\eaf2";
 }
-.an-fill.an-tilde:before {
+.ph-tilde-fill:before {
   content: "\eda8";
 }
-.an-fill.an-timer:before {
+.ph-timer-fill:before {
   content: "\e492";
 }
-.an-fill.an-tip-jar:before {
+.ph-tip-jar-fill:before {
   content: "\e7e2";
 }
-.an-fill.an-tipi:before {
+.ph-tipi-fill:before {
   content: "\ed30";
 }
-.an-fill.an-tire:before {
+.ph-tire-fill:before {
   content: "\edd2";
 }
-.an-fill.an-toggle-left:before {
+.ph-toggle-left-fill:before {
   content: "\e674";
 }
-.an-fill.an-toggle-right:before {
+.ph-toggle-right-fill:before {
   content: "\e676";
 }
-.an-fill.an-toilet:before {
+.ph-toilet-fill:before {
   content: "\e79a";
 }
-.an-fill.an-toilet-paper:before {
+.ph-toilet-paper-fill:before {
   content: "\e79c";
 }
-.an-fill.an-toolbox:before {
+.ph-toolbox-fill:before {
   content: "\eca0";
 }
-.an-fill.an-tooth:before {
+.ph-tooth-fill:before {
   content: "\e9cc";
 }
-.an-fill.an-tornado:before {
+.ph-tornado-fill:before {
   content: "\e88c";
 }
-.an-fill.an-tote:before {
+.ph-tote-fill:before {
   content: "\e494";
 }
-.an-fill.an-tote-simple:before {
+.ph-tote-simple-fill:before {
   content: "\e678";
 }
-.an-fill.an-towel:before {
+.ph-towel-fill:before {
   content: "\ede6";
 }
-.an-fill.an-tractor:before {
+.ph-tractor-fill:before {
   content: "\ec6e";
 }
-.an-fill.an-trademark:before {
+.ph-trademark-fill:before {
   content: "\e9f0";
 }
-.an-fill.an-trademark-registered:before {
+.ph-trademark-registered-fill:before {
   content: "\e3f4";
 }
-.an-fill.an-traffic-cone:before {
+.ph-traffic-cone-fill:before {
   content: "\e9a8";
 }
-.an-fill.an-traffic-sign:before {
+.ph-traffic-sign-fill:before {
   content: "\e67a";
 }
-.an-fill.an-traffic-signal:before {
+.ph-traffic-signal-fill:before {
   content: "\e9aa";
 }
-.an-fill.an-train:before {
+.ph-train-fill:before {
   content: "\e496";
 }
-.an-fill.an-train-regional:before {
+.ph-train-regional-fill:before {
   content: "\e49e";
 }
-.an-fill.an-train-simple:before {
+.ph-train-simple-fill:before {
   content: "\e4a0";
 }
-.an-fill.an-tram:before {
+.ph-tram-fill:before {
   content: "\e9ec";
 }
-.an-fill.an-translate:before {
+.ph-translate-fill:before {
   content: "\e4a2";
 }
-.an-fill.an-trash:before {
+.ph-trash-fill:before {
   content: "\e4a6";
 }
-.an-fill.an-trash-simple:before {
+.ph-trash-simple-fill:before {
   content: "\e4a8";
 }
-.an-fill.an-tray:before {
+.ph-tray-fill:before {
   content: "\e4aa";
 }
-.an-fill.an-tray-arrow-down:before {
+.ph-tray-arrow-down-fill:before {
   content: "\e010";
 }
-.an-fill.an-archive-tray:before {
+.ph-archive-tray-fill:before {
   content: "\e010";
 }
-.an-fill.an-tray-arrow-up:before {
+.ph-tray-arrow-up-fill:before {
   content: "\ee52";
 }
-.an-fill.an-treasure-chest:before {
+.ph-treasure-chest-fill:before {
   content: "\ede2";
 }
-.an-fill.an-tree:before {
+.ph-tree-fill:before {
   content: "\e6da";
 }
-.an-fill.an-tree-evergreen:before {
+.ph-tree-evergreen-fill:before {
   content: "\e6dc";
 }
-.an-fill.an-tree-palm:before {
+.ph-tree-palm-fill:before {
   content: "\e91a";
 }
-.an-fill.an-tree-structure:before {
+.ph-tree-structure-fill:before {
   content: "\e67c";
 }
-.an-fill.an-tree-view:before {
+.ph-tree-view-fill:before {
   content: "\ee48";
 }
-.an-fill.an-trend-down:before {
+.ph-trend-down-fill:before {
   content: "\e4ac";
 }
-.an-fill.an-trend-up:before {
+.ph-trend-up-fill:before {
   content: "\e4ae";
 }
-.an-fill.an-triangle:before {
+.ph-triangle-fill:before {
   content: "\e4b0";
 }
-.an-fill.an-triangle-dashed:before {
+.ph-triangle-dashed-fill:before {
   content: "\e4b2";
 }
-.an-fill.an-trolley:before {
+.ph-trolley-fill:before {
   content: "\e5b2";
 }
-.an-fill.an-trolley-suitcase:before {
+.ph-trolley-suitcase-fill:before {
   content: "\e5b4";
 }
-.an-fill.an-trophy:before {
+.ph-trophy-fill:before {
   content: "\e67e";
 }
-.an-fill.an-truck:before {
+.ph-truck-fill:before {
   content: "\e4b4";
 }
-.an-fill.an-truck-trailer:before {
+.ph-truck-trailer-fill:before {
   content: "\e4b6";
 }
-.an-fill.an-tumblr-logo:before {
+.ph-tumblr-logo-fill:before {
   content: "\e8d4";
 }
-.an-fill.an-twitch-logo:before {
+.ph-twitch-logo-fill:before {
   content: "\e5ce";
 }
-.an-fill.an-twitter-logo:before {
+.ph-twitter-logo-fill:before {
   content: "\e4ba";
 }
-.an-fill.an-umbrella:before {
+.ph-umbrella-fill:before {
   content: "\e684";
 }
-.an-fill.an-umbrella-simple:before {
+.ph-umbrella-simple-fill:before {
   content: "\e686";
 }
-.an-fill.an-union:before {
+.ph-union-fill:before {
   content: "\edbe";
 }
-.an-fill.an-unite:before {
+.ph-unite-fill:before {
   content: "\e87e";
 }
-.an-fill.an-unite-square:before {
+.ph-unite-square-fill:before {
   content: "\e878";
 }
-.an-fill.an-upload:before {
+.ph-upload-fill:before {
   content: "\e4be";
 }
-.an-fill.an-upload-simple:before {
+.ph-upload-simple-fill:before {
   content: "\e4c0";
 }
-.an-fill.an-usb:before {
+.ph-usb-fill:before {
   content: "\e956";
 }
-.an-fill.an-user:before {
+.ph-user-fill:before {
   content: "\e4c2";
 }
-.an-fill.an-user-check:before {
+.ph-user-check-fill:before {
   content: "\eafa";
 }
-.an-fill.an-user-circle:before {
+.ph-user-circle-fill:before {
   content: "\e4c4";
 }
-.an-fill.an-user-circle-check:before {
+.ph-user-circle-check-fill:before {
   content: "\ec38";
 }
-.an-fill.an-user-circle-dashed:before {
+.ph-user-circle-dashed-fill:before {
   content: "\ec36";
 }
-.an-fill.an-user-circle-gear:before {
+.ph-user-circle-gear-fill:before {
   content: "\e4c6";
 }
-.an-fill.an-user-circle-minus:before {
+.ph-user-circle-minus-fill:before {
   content: "\e4c8";
 }
-.an-fill.an-user-circle-plus:before {
+.ph-user-circle-plus-fill:before {
   content: "\e4ca";
 }
-.an-fill.an-user-focus:before {
+.ph-user-focus-fill:before {
   content: "\e6fc";
 }
-.an-fill.an-user-gear:before {
+.ph-user-gear-fill:before {
   content: "\e4cc";
 }
-.an-fill.an-user-list:before {
+.ph-user-list-fill:before {
   content: "\e73c";
 }
-.an-fill.an-user-minus:before {
+.ph-user-minus-fill:before {
   content: "\e4ce";
 }
-.an-fill.an-user-plus:before {
+.ph-user-plus-fill:before {
   content: "\e4d0";
 }
-.an-fill.an-user-rectangle:before {
+.ph-user-rectangle-fill:before {
   content: "\e4d2";
 }
-.an-fill.an-user-sound:before {
+.ph-user-sound-fill:before {
   content: "\eca8";
 }
-.an-fill.an-user-square:before {
+.ph-user-square-fill:before {
   content: "\e4d4";
 }
-.an-fill.an-user-switch:before {
+.ph-user-switch-fill:before {
   content: "\e756";
 }
-.an-fill.an-users:before {
+.ph-users-fill:before {
   content: "\e4d6";
 }
-.an-fill.an-users-four:before {
+.ph-users-four-fill:before {
   content: "\e68c";
 }
-.an-fill.an-users-three:before {
+.ph-users-three-fill:before {
   content: "\e68e";
 }
-.an-fill.an-van:before {
+.ph-van-fill:before {
   content: "\e826";
 }
-.an-fill.an-vault:before {
+.ph-vault-fill:before {
   content: "\e76e";
 }
-.an-fill.an-vector-three:before {
+.ph-vector-three-fill:before {
   content: "\ee62";
 }
-.an-fill.an-vector-two:before {
+.ph-vector-two-fill:before {
   content: "\ee64";
 }
-.an-fill.an-vibrate:before {
+.ph-vibrate-fill:before {
   content: "\e4d8";
 }
-.an-fill.an-video:before {
+.ph-video-fill:before {
   content: "\e740";
 }
-.an-fill.an-video-camera:before {
+.ph-video-camera-fill:before {
   content: "\e4da";
 }
-.an-fill.an-video-camera-slash:before {
+.ph-video-camera-slash-fill:before {
   content: "\e4dc";
 }
-.an-fill.an-video-conference:before {
+.ph-video-conference-fill:before {
   content: "\edce";
 }
-.an-fill.an-vignette:before {
+.ph-vignette-fill:before {
   content: "\eba2";
 }
-.an-fill.an-vinyl-record:before {
+.ph-vinyl-record-fill:before {
   content: "\ecac";
 }
-.an-fill.an-virtual-reality:before {
+.ph-virtual-reality-fill:before {
   content: "\e7b8";
 }
-.an-fill.an-virus:before {
+.ph-virus-fill:before {
   content: "\e7d6";
 }
-.an-fill.an-visor:before {
+.ph-visor-fill:before {
   content: "\ee2a";
 }
-.an-fill.an-voicemail:before {
+.ph-voicemail-fill:before {
   content: "\e4de";
 }
-.an-fill.an-volleyball:before {
+.ph-volleyball-fill:before {
   content: "\e726";
 }
-.an-fill.an-wall:before {
+.ph-wall-fill:before {
   content: "\e688";
 }
-.an-fill.an-wallet:before {
+.ph-wallet-fill:before {
   content: "\e68a";
 }
-.an-fill.an-warehouse:before {
+.ph-warehouse-fill:before {
   content: "\ecd4";
 }
-.an-fill.an-warning:before {
+.ph-warning-fill:before {
   content: "\e4e0";
 }
-.an-fill.an-warning-circle:before {
+.ph-warning-circle-fill:before {
   content: "\e4e2";
 }
-.an-fill.an-warning-diamond:before {
+.ph-warning-diamond-fill:before {
   content: "\e7fc";
 }
-.an-fill.an-warning-octagon:before {
+.ph-warning-octagon-fill:before {
   content: "\e4e4";
 }
-.an-fill.an-washing-machine:before {
+.ph-washing-machine-fill:before {
   content: "\ede8";
 }
-.an-fill.an-watch:before {
+.ph-watch-fill:before {
   content: "\e4e6";
 }
-.an-fill.an-wave-sawtooth:before {
+.ph-wave-sawtooth-fill:before {
   content: "\ea9c";
 }
-.an-fill.an-wave-sine:before {
+.ph-wave-sine-fill:before {
   content: "\ea9a";
 }
-.an-fill.an-wave-square:before {
+.ph-wave-square-fill:before {
   content: "\ea9e";
 }
-.an-fill.an-wave-triangle:before {
+.ph-wave-triangle-fill:before {
   content: "\eaa0";
 }
-.an-fill.an-waveform:before {
+.ph-waveform-fill:before {
   content: "\e802";
 }
-.an-fill.an-waveform-slash:before {
+.ph-waveform-slash-fill:before {
   content: "\e800";
 }
-.an-fill.an-waves:before {
+.ph-waves-fill:before {
   content: "\e6de";
 }
-.an-fill.an-webcam:before {
+.ph-webcam-fill:before {
   content: "\e9b2";
 }
-.an-fill.an-webcam-slash:before {
+.ph-webcam-slash-fill:before {
   content: "\ecdc";
 }
-.an-fill.an-webhooks-logo:before {
+.ph-webhooks-logo-fill:before {
   content: "\ecae";
 }
-.an-fill.an-wechat-logo:before {
+.ph-wechat-logo-fill:before {
   content: "\e8d2";
 }
-.an-fill.an-whatsapp-logo:before {
+.ph-whatsapp-logo-fill:before {
   content: "\e5d0";
 }
-.an-fill.an-wheelchair:before {
+.ph-wheelchair-fill:before {
   content: "\e4e8";
 }
-.an-fill.an-wheelchair-motion:before {
+.ph-wheelchair-motion-fill:before {
   content: "\e89a";
 }
-.an-fill.an-wifi-high:before {
+.ph-wifi-high-fill:before {
   content: "\e4ea";
 }
-.an-fill.an-wifi-low:before {
+.ph-wifi-low-fill:before {
   content: "\e4ec";
 }
-.an-fill.an-wifi-medium:before {
+.ph-wifi-medium-fill:before {
   content: "\e4ee";
 }
-.an-fill.an-wifi-none:before {
+.ph-wifi-none-fill:before {
   content: "\e4f0";
 }
-.an-fill.an-wifi-slash:before {
+.ph-wifi-slash-fill:before {
   content: "\e4f2";
 }
-.an-fill.an-wifi-x:before {
+.ph-wifi-x-fill:before {
   content: "\e4f4";
 }
-.an-fill.an-wind:before {
+.ph-wind-fill:before {
   content: "\e5d2";
 }
-.an-fill.an-windmill:before {
+.ph-windmill-fill:before {
   content: "\e9f8";
 }
-.an-fill.an-windows-logo:before {
+.ph-windows-logo-fill:before {
   content: "\e692";
 }
-.an-fill.an-wine:before {
+.ph-wine-fill:before {
   content: "\e6b2";
 }
-.an-fill.an-wrench:before {
+.ph-wrench-fill:before {
   content: "\e5d4";
 }
-.an-fill.an-x:before {
+.ph-x-fill:before {
   content: "\e4f6";
 }
-.an-fill.an-x-circle:before {
+.ph-x-circle-fill:before {
   content: "\e4f8";
 }
-.an-fill.an-x-logo:before {
+.ph-x-logo-fill:before {
   content: "\e4bc";
 }
-.an-fill.an-x-square:before {
+.ph-x-square-fill:before {
   content: "\e4fa";
 }
-.an-fill.an-yarn:before {
+.ph-yarn-fill:before {
   content: "\ed9a";
 }
-.an-fill.an-yin-yang:before {
+.ph-yin-yang-fill:before {
   content: "\e92a";
 }
-.an-fill.an-youtube-logo:before {
+.ph-youtube-logo-fill:before {
   content: "\e4fc";
 }

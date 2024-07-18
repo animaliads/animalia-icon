@@ -36316,7 +36316,7 @@
     "showQuickUse2": true,
     "showSVGs": true,
     "fontPref": {
-      "prefix": "an-",
+      "prefix": "ph-",
       "metadata": {
         "fontFamily": "Animalia",
         "majorVersion": 1,
@@ -36337,7 +36337,7 @@
       "flutter": false,
       "showSelector": true,
       "selector": "class",
-      "classSelector": ".an",
+      "classSelector": ".ph",
       "showMetrics": true,
       "showMetadata": true,
       "showVersion": true
@@ -36348,7 +36348,8 @@
       "useClassSelector": true,
       "color": 0,
       "bgColor": 16777215,
-      "classSelector": ".icon"
+      "classSelector": ".icon",
+      "name": "icomoon"
     },
     "height": 1024,
     "historySize": 50,
