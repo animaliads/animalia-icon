@@ -1,17 +1,17 @@
 @font-face {
   font-family: "Animalia";
   src:
-    url("./Animalia.ttf") format("truetype"),
-    url("./Animalia.woff") format("woff"),
-    url("./Animalia.svg#Animalia") format("svg");
+    url("./Animalia-Fill.ttf") format("truetype"),
+    url("./Animalia-Fill.woff") format("woff"),
+    url("./Animalia-Fill.svg#Animalia") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-.ph {
+.ph-fill {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: "Animalia" !important;
+  font-family: "Animalia-Fill" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
