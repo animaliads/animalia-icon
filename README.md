@@ -1,6 +1,6 @@
 # **Biblioteca de Ícones Animalia**
 
-<img src="/meta/.png" width="128" align="right" />
+<img src="/meta/tamandua.png" width="128" align="right" />
 [![NPM](https://img.shields.io/npm/v/animalia-icon.svg?style=flat-square)](https://www.npmjs.com/package/animalia-icon)
 
 [![GitHub stars](https://img.shields.io/github/stars/animalia-icon?style=flat-square&label=Star)](https://github.com/animalia-icon/web)
