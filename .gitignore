@@ -1,0 +1,6 @@
+# Ignorar diretórios de compilação
+node_modules/
+
+#Ignorar
+yarn.lock
+package-lock.json
