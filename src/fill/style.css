@@ -2149,10 +2149,10 @@
 .ph-fill.ph-globe:before {
   content: "\e288";
 }
-.ph-fill.ph-globe-hemi.ph-fillsphere-east:before {
+.ph-fill.ph-globe-hemisph-fill.phere-east:before {
   content: "\e28a";
 }
-.ph-fill.ph-globe-hemi.ph-fillsphere-west:before {
+.ph-fill.ph-globe-hemisph-fill.phere-west:before {
   content: "\e28c";
 }
 .ph-fill.ph-globe-simple:before {
@@ -2188,7 +2188,7 @@
 .ph-fill.ph-google-logo:before {
   content: "\e292";
 }
-.ph-fill.ph-google.ph-fill-photos-logo:before {
+.ph-fill.ph-google-ph-fill.photos-logo:before {
   content: "\eb92";
 }
 .ph-fill.ph-google-play-logo:before {
@@ -2218,10 +2218,10 @@
 .ph-fill.ph-grains-slash:before {
   content: "\ec6a";
 }
-.ph-fill.ph-gr.ph-fillaph:before {
+.ph-fill.ph-graph-fill.ph:before {
   content: "\eb58";
 }
-.ph-fill.ph-gr.ph-fillaphics-card:before {
+.ph-fill.ph-graph-fill.phics-card:before {
   content: "\e612";
 }
 .ph-fill.ph-greater-than:before {
@@ -2338,7 +2338,7 @@
 .ph-fill.ph-headlights:before {
   content: "\e6fe";
 }
-.ph-fill.ph-hea.ph-filldphones:before {
+.ph-fill.ph-headph-fill.phones:before {
   content: "\e2a6";
 }
 .ph-fill.ph-headset:before {
@@ -2752,10 +2752,10 @@
 .ph-fill.ph-medium-logo:before {
   content: "\e322";
 }
-.ph-fill.ph-meg.ph-fillaphone:before {
+.ph-fill.ph-megaph-fill.phone:before {
   content: "\e324";
 }
-.ph-fill.ph-meg.ph-fillaphone-simple:before {
+.ph-fill.ph-megaph-fill.phone-simple:before {
   content: "\e642";
 }
 .ph-fill.ph-member-of:before {
@@ -2776,13 +2776,13 @@
 .ph-fill.ph-metronome:before {
   content: "\ec8e";
 }
-.ph-fill.ph-micr.ph-fillophone:before {
+.ph-fill.ph-microph-fill.phone:before {
   content: "\e326";
 }
-.ph-fill.ph-micr.ph-fillophone-slash:before {
+.ph-fill.ph-microph-fill.phone-slash:before {
   content: "\e328";
 }
-.ph-fill.ph-micr.ph-fillophone-stage:before {
+.ph-fill.ph-microph-fill.phone-stage:before {
   content: "\e75c";
 }
 .ph-fill.ph-microscope:before {
@@ -3112,7 +3112,7 @@
 .ph-fill.ph-parachute:before {
   content: "\ea7c";
 }
-.ph-fill.ph-paragr.ph-fillaph:before {
+.ph-fill.ph-paragraph-fill.ph:before {
   content: "\e960";
 }
 .ph-fill.ph-parallelogram:before {
@@ -3232,40 +3232,40 @@
 .ph-fill.ph-perspective:before {
   content: "\ebe6";
 }
-.ph-fill.ph.ph-fill-phone:before {
+.ph-fill.ph-ph-fill.phone:before {
   content: "\e3b8";
 }
-.ph-fill.ph.ph-fill-phone-call:before {
+.ph-fill.ph-ph-fill.phone-call:before {
   content: "\e3ba";
 }
-.ph-fill.ph.ph-fill-phone-disconnect:before {
+.ph-fill.ph-ph-fill.phone-disconnect:before {
   content: "\e3bc";
 }
-.ph-fill.ph.ph-fill-phone-incoming:before {
+.ph-fill.ph-ph-fill.phone-incoming:before {
   content: "\e3be";
 }
-.ph-fill.ph.ph-fill-phone-list:before {
+.ph-fill.ph-ph-fill.phone-list:before {
   content: "\e3cc";
 }
-.ph-fill.ph.ph-fill-phone-outgoing:before {
+.ph-fill.ph-ph-fill.phone-outgoing:before {
   content: "\e3c0";
 }
-.ph-fill.ph.ph-fill-phone-pause:before {
+.ph-fill.ph-ph-fill.phone-pause:before {
   content: "\e3ca";
 }
-.ph-fill.ph.ph-fill-phone-plus:before {
+.ph-fill.ph-ph-fill.phone-plus:before {
   content: "\ec56";
 }
-.ph-fill.ph.ph-fill-phone-slash:before {
+.ph-fill.ph-ph-fill.phone-slash:before {
   content: "\e3c2";
 }
-.ph-fill.ph.ph-fill-phone-transfer:before {
+.ph-fill.ph-ph-fill.phone-transfer:before {
   content: "\e3c6";
 }
-.ph-fill.ph.ph-fill-phone-x:before {
+.ph-fill.ph-ph-fill.phone-x:before {
   content: "\e3c4";
 }
-.ph-fill.ph.ph-fill-pho.ph-fillsphor-logo:before {
+.ph-fill.ph-ph-fill.phosph-fill.phor-logo:before {
   content: "\e3ce";
 }
 .ph-fill.ph-pi:before {
@@ -3868,7 +3868,7 @@
 .ph-fill.ph-speedometer:before {
   content: "\ee74";
 }
-.ph-fill.ph-.ph-fillsphere:before {
+.ph-fill.ph-sph-fill.phere:before {
   content: "\ee66";
 }
 .ph-fill.ph-spinner:before {
@@ -4351,7 +4351,7 @@
 .ph-fill.ph-trolley-suitcase:before {
   content: "\e5b4";
 }
-.ph-fill.ph-tr.ph-fillophy:before {
+.ph-fill.ph-troph-fill.phy:before {
   content: "\e67e";
 }
 .ph-fill.ph-truck:before {
@@ -4623,4 +4623,10 @@
 }
 .ph-fill.ph-youtube-logo:before {
   content: "\e4fc";
+}
+.ph-fill.ph-fluig-logo:before {
+  content: "\e900";
+}
+.ph-fill.ph-totvs-logo:before {
+  content: "\e901";
 }

@@ -34,6 +34,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ph-pallet-full:before {
+  content: "\e908";
+}
+.ph-pallet-partial:before {
+  content: "\e909";
+}
+.ph-weight:before {
+  content: "\e90a";
+}
+.ph-calendar-gear:before {
+  content: "\e90b";
+}
+.ph-menu-open:before {
+  content: "\e90c";
+}
+.ph-menu-close:before {
+  content: "\e90d";
+}
+.ph-radio-signal:before {
+  content: "\e90e";
+}
+.ph-oil-magnifying-glass:before {
+  content: "\e90f";
+}
+.ph-image-align-inline:before {
+  content: "\e910";
+}
+.ph-image-align-left:before {
+  content: "\e911";
+}
+.ph-image-align-right:before {
+  content: "\e912";
+}
+.ph-waiter:before {
+  content: "\e913";
+}
+.ph-automatic-barrier:before {
+  content: "\e915";
+}
+.ph-warehouse:before {
+  content: "\e917";
+}
+.ph-balance-weight:before {
+  content: "\e919";
+}
+.ph-file-xml:before {
+  content: "\e91b";
+}
+.ph-table:before {
+  content: "\e91c";
+}
+.ph-hard-drive-disk:before {
+  content: "\e91d";
+}
+.ph-Server:before {
+  content: "\e91e";
+}
 .ph-credit-card:before {
   content: "\e900";
 }
@@ -46,7 +103,7 @@
 .ph-pregnant:before {
   content: "\e904";
 }
-.ph-userX:before {
+.ph-user-x:before {
   content: "\e905";
 }
 .ph-cotton:before {
@@ -4078,7 +4135,7 @@
 .ph-t-shirt:before {
   content: "\e670";
 }
-.ph-table:before {
+.ph-table1:before {
   content: "\e476";
 }
 .ph-tabs:before {
@@ -4525,7 +4582,7 @@
 .ph-wallet:before {
   content: "\e68a";
 }
-.ph-warehouse:before {
+.ph-warehouse1:before {
   content: "\ecd4";
 }
 .ph-warning:before {
