@@ -5,7 +5,7 @@ for (const weight of ["regular", "fill"]) {
   link.rel = "stylesheet";
   link.type = "text/css";
   link.href =
-    "https://unpkg.com/@animaliads/animalia-icon@1.0.1/src/" +
+    "https://unpkg.com/@animaliads/animalia-icon@1.0.2/src/" +
     weight +
     "/style.css";
   head.appendChild(link);
