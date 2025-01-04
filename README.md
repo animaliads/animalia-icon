@@ -29,7 +29,7 @@ Nossos ícones funcionam como fontes da web, facilitando a inserção em seu sit
     />
   </head>
   <body>
-    <i class="ph ph-smiley"></i>
+    <i class="an an-smiley"></i>
   </body>
 </html>
 ```
@@ -47,13 +47,13 @@ Os ícones Animalia vêm em 2 pesos: regular e preenchido. Para usar um peso, vo
 Precisa de opções rápidas de dimensionamento? Temos tudo o que você precisa com estas classes auxiliares:
 
 ```css
-.ph-xxs {
+.an-xxs {
   font-size: 0.5em;
 }
-.ph-xs {
+.an-xs {
   font-size: 0.75em;
 }
-.ph-sm {
+.an-sm {
   font-size: 0.875em;
 }
 /* ...e mais! */
