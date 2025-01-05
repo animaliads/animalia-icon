@@ -2,7 +2,7 @@
 
 <img src="./meta/tamandua.png" width="128" align="right" />
 
-[![NPM](https://img.shields.io/npm/v/animalia-icon.svg?style=flat-square)](https://www.npmjs.com/package/animalia-icon)
+[![NPM](https://img.shields.io/npm/v/animalia-icon.svg?style=flat-square)](https://www.npmjs.com/package/@animaliads/animalia-icon)
 
 [![GitHub stars](https://img.shields.io/github/stars/animaliads?style=flat-square&label=Star)](https://github.com/animalia-icon/web)
 
@@ -38,7 +38,7 @@ Nossos ícones funcionam como fontes da web, facilitando a inserção em seu sit
 
 ## Pesos ✨
 
-Os ícones Animalia vêm em 2 pesos: regular e preenchido. Para usar um peso, você deve incluir um link para sua folha de estilo e usar a classe de peso apropriada no ícone (o peso regular usa `.ph` em vez de `.ph-regular`):
+Os ícones Animalia vêm em 2 pesos: regular e preenchido. Para usar um peso, você deve incluir um link para sua folha de estilo e usar a classe de peso apropriada no ícone (o peso regular usa `.an` em vez de `.an-regular`):
 
 ## Estilização 🎨
 
