@@ -38,7 +38,7 @@ Nossos ícones funcionam como fontes da web, facilitando a inserção em seu sit
 
 ## Pesos ✨
 
-Os ícones Animalia vêm em 2 pesos: regular e preenchido. Para usar um peso, você deve incluir um link para sua folha de estilo e usar a classe de peso apropriada no ícone (o peso regular usa `.ph` em vez de `.ph-regular`):
+Os ícones Animalia vêm em 2 pesos: regular e preenchido. Para usar um peso, você deve incluir um link para sua folha de estilo e usar a classe de peso apropriada no ícone (o peso regular usa `.an` em vez de `.an-regular`):
 
 ## Estilização 🎨
 
