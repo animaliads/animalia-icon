@@ -19,7 +19,8 @@
     "test": "npx http-server -o /test",
     "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,vue}\"",
     "transform": "tsx ./scripts/transform.ts",
-    "icomoon": "tsx ./scripts/icomoon.ts"
+    "icomoon": "tsx ./scripts/icomoon.ts",
+    "subset": "tsx ./scripts/subset.ts"
   },
   "repository": {
     "type": "git",
@@ -45,6 +46,7 @@
     "@types/node": "18",
     "chalk": "^4.1.0",
     "prettier": "^3.1.1",
+    "subset-font": "^2.4.0",
     "svgson": "^5.2.1",
     "tsx": "^4.7.0"
   }
