@@ -1,16 +1,16 @@
 @font-face {
   font-family: "Animalia-Fill";
   src:
-    url("./Animalia-Fill.ttf") format("truetype"),
-    url("./Animalia-Fill.woff") format("woff"),
-    url("./Animalia-Fill.svg#Animalia") format("svg");
+    url("./Animalia-Fill.woff2") format("woff2"),
+    url("./Animalia-Fill.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
-.an-fill {
-  /* use !important to prevent issues with browser extensions that change fonts */
+.an-fill,
+[class^="an-fill"],
+[class*=" an-fill"] {
+  /* Use !important to prevent extensions from overriding this font. */
   font-family: "Animalia-Fill" !important;
   speak: never;
   font-style: normal;
@@ -33,7 +33,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.an-fill.an-rows-minus-bottom:before {
+  content: "\f000";
+}
+.an-fill.an-columns-minus-right:before {
+  content: "\f001";
+}
 .an-fill.an-totvs-logo:before {
   content: "\e901";
 }
@@ -457,9 +462,6 @@
 .an-fill.an-asclepius:before {
   content: "\ee34";
 }
-.an-fill.an-caduceus:before {
-  content: "\ee34";
-}
 .an-fill.an-asterisk:before {
   content: "\e0aa";
 }
@@ -719,9 +721,6 @@
   content: "\ea34";
 }
 .an-fill.an-box-arrow-down:before {
-  content: "\e00e";
-}
-.an-fill.an-archive-box:before {
   content: "\e00e";
 }
 .an-fill.an-box-arrow-up:before {
@@ -1777,9 +1776,6 @@
 .an-fill.an-file-dashed:before {
   content: "\e704";
 }
-.an-fill.an-file-dotted:before {
-  content: "\e704";
-}
 .an-fill.an-file-doc:before {
   content: "\eb1e";
 }
@@ -1805,9 +1801,6 @@
   content: "\e95c";
 }
 .an-fill.an-file-magnifying-glass:before {
-  content: "\e238";
-}
-.an-fill.an-file-search:before {
   content: "\e238";
 }
 .an-fill.an-file-md:before {
@@ -1969,13 +1962,7 @@
 .an-fill.an-folder:before {
   content: "\e24a";
 }
-.an-fill.an-folder-notch:before {
-  content: "\e24a";
-}
 .an-fill.an-folder-dashed:before {
-  content: "\e8f8";
-}
-.an-fill.an-folder-dotted:before {
   content: "\e8f8";
 }
 .an-fill.an-folder-lock:before {
@@ -1984,28 +1971,16 @@
 .an-fill.an-folder-minus:before {
   content: "\e254";
 }
-.an-fill.an-folder-notch-minus:before {
-  content: "\e254";
-}
 .an-fill.an-folder-open:before {
   content: "\e256";
 }
-.an-fill.an-folder-notch-open:before {
-  content: "\e256";
-}
 .an-fill.an-folder-plus:before {
-  content: "\e258";
-}
-.an-fill.an-folder-notch-plus:before {
   content: "\e258";
 }
 .an-fill.an-folder-simple:before {
   content: "\e25a";
 }
 .an-fill.an-folder-simple-dashed:before {
-  content: "\ec2a";
-}
-.an-fill.an-folder-simple-dotted:before {
   content: "\ec2a";
 }
 .an-fill.an-folder-simple-lock:before {
@@ -2453,9 +2428,6 @@
   content: "\e834";
 }
 .an-fill.an-infinity:before {
-  content: "\e634";
-}
-.an-fill.an-lemniscate:before {
   content: "\e634";
 }
 .an-fill.an-info:before {
@@ -3406,9 +3378,6 @@
 .an-fill.an-pulse:before {
   content: "\e000";
 }
-.an-fill.an-activity:before {
-  content: "\e000";
-}
 .an-fill.an-push-pin:before {
   content: "\e3e2";
 }
@@ -3577,13 +3546,7 @@
 .an-fill.an-seal:before {
   content: "\e604";
 }
-.an-fill.an-circle-wavy:before {
-  content: "\e604";
-}
 .an-fill.an-seal-check:before {
-  content: "\e606";
-}
-.an-fill.an-circle-wavy-check:before {
   content: "\e606";
 }
 .an-fill.an-seal-percent:before {
@@ -3592,13 +3555,7 @@
 .an-fill.an-seal-question:before {
   content: "\e608";
 }
-.an-fill.an-circle-wavy-question:before {
-  content: "\e608";
-}
 .an-fill.an-seal-warning:before {
-  content: "\e60c";
-}
-.an-fill.an-circle-wavy-warning:before {
   content: "\e60c";
 }
 .an-fill.an-seat:before {
@@ -4132,9 +4089,6 @@
 .an-fill.an-text-b:before {
   content: "\e5be";
 }
-.an-fill.an-text-bolder:before {
-  content: "\e5be";
-}
 .an-fill.an-text-columns:before {
   content: "\ec96";
 }
@@ -4310,9 +4264,6 @@
   content: "\e4aa";
 }
 .an-fill.an-tray-arrow-down:before {
-  content: "\e010";
-}
-.an-fill.an-archive-tray:before {
   content: "\e010";
 }
 .an-fill.an-tray-arrow-up:before {
