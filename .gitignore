@@ -4,3 +4,4 @@ node_modules/
 #Ignorar
 yarn.lock
 package-lock.json
+.DS_Store
